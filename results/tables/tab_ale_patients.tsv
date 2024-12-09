@@ -1,0 +1,2 @@
+Analysis	Cluster #	Size (mm3)	Cluster labels	Mean z	Mean ALE	Peak z	Peak ALE	Peak X	Peak Y	Peak Z	Peak label
+Activation likelihood estimation	1	1,376	79.07% Left_Frontal_Pole; 11.63% Left_Paracingulate_Gyrus; 6.98% Left_Superior_Frontal_Gyrus	3.09	0.010	3.09	0.014	-6	58	18	50.0% Left_Frontal_Pole; 11.0% Left_Superior_Frontal_Gyrus; 10.0% Left_Paracingulate_Gyrus
