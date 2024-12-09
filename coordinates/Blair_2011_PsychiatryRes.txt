@@ -1,0 +1,55 @@
+// Reference=Talairach
+// (Generalized social phobia=GSP, Healthy Comparison=HC)
+// Blair,2011:Group-by-viewpoint interaction(all,13 females)
+// Subjects=30
+-29	-86	6
+42	-55	27
+2	-65	37
+
+// Blair, 2011:1st > 2nd person (HC > GSP)
+// standardized name for contrast: self>close
+// Subjects=15
+1	48	10
+
+// Blair,2011:Group main effect(GSP>HC)(all,13 females) 
+// subjects=30
+-9	54	24
+29	46	25
+-41	37	31
+9	-5	54
+29	-7	-15
+18	5	42
+34	-28	46
+46	-38	-2
+-32	-66	17
+-43	-24	29
+
+// Blair,2011:Group-by-valence interaction(all, 13 females)
+// Subjects=30
+-43	23	35
+-10	35	-9
+
+// Blair,2011:Viewpoint main effect(1st person viewpoints>2nd person viewpoints)(all,13 females)
+// standardized name for contrast: self>close
+// Subjects=30
+13	-79	-4
+
+// Blair,2011:Valence main effect(all,13 females)
+// Subjects=30
+-10	43	11
+13	30	46
+0	-15	38
+10	-50	22
+
+// Blair,2011:viewpoint main effect(HC,6 females, mean=31.1, sd=6.37)
+// standardized name for contrast: self>close
+// Subjects=15
+7	50	11
+17	-78	-5
+42	-54	28
+
+// Blair,2011:valence main effect(HC,6 females, mean=31.1, sd=6.37) 
+// Subjects=15
+-7	35	22
+-13	-50	51
+22	-48	47

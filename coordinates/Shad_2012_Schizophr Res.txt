@@ -1,0 +1,14 @@
+// Reference=MNI
+// Shad,2012,SR(self-directed)>OR(other-directed) within the SR condition(Schizophrenia>healthy controls)
+// (self-referential=SR,other-referential=OR)
+// Subjects=32
+-36	-12	39
+
+// Shad,2012, SR(self-directed)>OR(other-directed)(healthy controls>Schizophrenia)
+// Subjects=32
+NA
+
+// Shad,2012,SR(self-directed)>OR(other-directed)(Schizophrenia>healthy controls)
+// Standardized name for contrast: self>stranger
+// Subjects=32
+9	-45	0
