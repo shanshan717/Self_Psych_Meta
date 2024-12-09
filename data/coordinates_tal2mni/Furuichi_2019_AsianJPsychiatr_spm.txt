@@ -1,0 +1,89 @@
+// Reference=Talairach
+// Furuichi, 2019: self>button (healthy subjects, 7 females, mean=27.5, sd=4.3)   
+// Standardized name for contrast: self>nonPerson 
+// Subjects=15
+-18.05	-99.86	3.36
+-44.06	17.62	21.31
+-3.78	24.4	45.73
+0.15	-17.92	6.15
+-50.68	-35.95	-.17
+
+// Furuichi, 2019: other>button (healthy subjects, 7 females, mean=27.5, sd=4.3)   
+// Subjects=15
+17.24	-76.18	-20.87
+-42.66	6.83	43.65
+0.53	26.54	45.45
+-62.76	-12.36	-11.26
+-6.8	-70.69	-41.18
+-45.94	-2.65	-46.12
+
+// Furuichi, 2019: (self>button)>(other>button) (healthy subjects, 7 females, mean=27.5, sd=4.3)   
+// Subjects=15
+-23.86	-22	-13.21
+0.66	-9.72	47.91
+
+// Furuichi, 2019: (other>button)>(self>button) (healthy subjects, 7 females, mean=27.5, sd=4.3)   
+// NA 
+// Subjects=15
+
+// Furuichi, 2019: self>button (Schizophrenia, 7 females, mean=27, sd=5.3)   
+// Standardized name for contrast: self>nonPerson 
+// Subjects=13
+-22.35	-97.54	5.45
+5.83	27.96	37.37
+-34.82	-54.52	52.95
+-2.21	-45.64	-14.6
+39.81	22.55	-10.86
+-62.41	-44.73	9.87
+46.64	25.17	16.78
+
+// Furuichi, 2019: other>button (Schizophrenia, 7 females, mean=27, sd=5.3)   
+// Subjects=13
+-28.81	-90.87	8.26
+-45.61	18.44	-15.72
+-28.33	-54.39	53.95
+-55.21	-18.92	-12.98
+30.17	22.08	-3.92
+-2.45	-68.23	-38.13
+
+// Furuichi, 2019: (Self>Button)>(other>Button) (Schizophrenia, 7 females, mean=27, sd=5.3)   
+// NA 
+// Subjects=13
+
+// Furuichi, 2019: (other>Button)>(Self>Button) (Schizophrenia, 7 females, mean=27, sd=5.3)   
+// NA 
+// Subjects=13
+
+// Furuichi, 2019: Self>Button (Healthy subjects>Schizophrenia patients)(all) 
+// NA 
+// Subjects=28
+
+// Furuichi, 2019: other>Button (Healthy subjects>Schizophrenia patients)(all)   
+// NA 
+// Subjects=28
+
+// Furuichi, 2019: (Self>Button)>(other>Button) (Healthy subjects>Schizophrenia patients)(all)   
+// NA 
+// Subjects=28
+
+// Furuichi, 2019: (other>Button)>(Self>Button) (Healthy subjects>Schizophrenia patients)(all)   
+// NA 
+// Subjects=28
+
+// Furuichi, 2019: Self>Button (Schizophrenia patients>Healthy subjects)(all) 
+// Subjects=28
+54.72	-39.83	44.37
+34.08	22.72	48.61
+
+// Furuichi, 2019: other>Button (Schizophrenia patients>Healthy subjects)(all)   
+// Subjects=28
+30.18	19.95	-3.71
+
+// Furuichi, 2019: (other>Button)>(Self>Button)(Schizophrenia patients>Healthy subjects)(all)   
+// Subjects=28
+-23.86	-22	-13.21
+
+// Furuichi, 2019: (Self>Button)>(other>Button)(Schizophrenia patients>Healthy subjects)(all)   
+// NA 
+// Subjects=28
+
