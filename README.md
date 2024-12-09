@@ -1,7 +1,5 @@
 # Abnormal brain activations during self-referential process across psychiatric disorders? A meta-analysis of neuroimaging studies
 
----
-
 ## Installation Requirements
 
 - **Python Version**: 3.12.4
