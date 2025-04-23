@@ -1,0 +1,6 @@
+Analysis	Cluster #	Size (mm3)	Cluster labels	Mean z	Mean ALE	Peak z	Peak ALE	Peak X	Peak Y	Peak Z	Peak label
+Activation likelihood estimation	1	16,416	29.87% Cingulate_Ant_L; 28.41% Frontal_Sup_Medial_L; 13.89% Cingulate_Ant_R; 13.01% Frontal_Sup_Medial_R; 7.80% Frontal_Med_Orb_L	3.72	0.022	3.72	0.050	0	48	8	Cingulate_Ant_L
+	2	4,800	41.83% Frontal_Inf_Orb_2_L; 27.67% OFCpost_L; 14.33% Insula_L; 6.50% Temporal_Pole_Sup_L; 5.17% OFClat_L	3.72	0.021	3.72	0.035	-38	24	-14	OFCpost_L
+	3	3,256	43.00% Precuneus_L; 30.71% Cingulate_Post_L; 14.00% Precuneus_R; 5.41% Cingulate_Post_R	3.72	0.023	3.72	0.043	-2	-54	26	Cingulate_Post_L
+	4	1,328	61.45% Cingulate_Mid_L; 38.55% Cingulate_Mid_R	2.73	0.022	2.73	0.036	2	-16	38	Cingulate_Mid_R
+	5	1,096	64.23% Angular_L; 35.77% Temporal_Mid_L	2.27	0.022	2.27	0.035	-44	-58	24	Angular_L

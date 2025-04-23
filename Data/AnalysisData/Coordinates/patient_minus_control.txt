@@ -1,8 +1,4 @@
 // Reference=MNI
-// Fuentes-Claramonte, 2020
-// Subjects=50
--52	14	36
-
 // Furuichi, 2019
 // Subjects=28
 54.72	-39.83	44.37
@@ -13,9 +9,17 @@
 49	-7	46
 36	-20	43
 
-// shad,2012
-// subjects=32
-9	-45	0
+// shad, 2012
+// Subjects=32
+9   -45	    0
+
+// Lemogne, 2009
+// Subjects=30
+6	48	18
+-3	33	36
+9	24	39
+-48	18	24
+-18	48	18
 
 // Bedford, 2012
 // Subjects=19
@@ -79,4 +83,3 @@
 // McAdams, 2016
 // Subjects=41
 16	56	16
--26	35	38

@@ -22,9 +22,6 @@
 -6	47	46
 -42	14	43
 -45	17	40
-
-// Pankow, 2016
-// Subjects=64
 9	38	1
 -6	47	-2
 
@@ -46,11 +43,15 @@
 -44	-68	-14
 44	22	24
 
+// van der Meer, 2013
+// Subjects=68
+-6	-38	28
+
 // Liu, 2014
 // Subjects=30
 -54	-42	-24
 
-// Tan, 2015, self > semantic
+// Tan, 2015
 // Subjects=35
 -6	36	15
 
@@ -80,6 +81,18 @@
 // Subjects=35
 2	58	-12
 
+// Fuentes-Claramonte, 2020
+// Subjects=50
+-52	14	36
+
 // Herold, 2017
 // Subjects=28
 -6	54	10
+
+// Makowski,2015
+// Subjects=30
+10	-44	38	
+18	-44	40
+46	-58	40
+36	-54	56
+40	-40	54
