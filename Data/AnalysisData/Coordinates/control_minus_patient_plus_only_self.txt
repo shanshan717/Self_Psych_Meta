@@ -1,0 +1,19 @@
+// Reference=MNI
+// Liu, 2014
+// Subjects=30
+-15	-9	-30
+3	-39	-36
+
+// Li, 2017: Self-reference condition (controls > depressive patients)
+// Subjects=39
+-9	15	42
+42	12	30
+
+// Renner, 2015: self-reference (HC > chronic major depressive)
+// Subjects=35
+-9	15	42
+42	12	30
+
+// Jimenez, 2018
+// Subjects=36
+-44	-68	-14
