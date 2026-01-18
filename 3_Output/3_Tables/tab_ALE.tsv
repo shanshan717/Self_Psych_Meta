@@ -1,0 +1,3 @@
+Analysis	Cluster #	Size (mm3)	Cluster labels	Mean z	Mean ALE	Peak z	Peak ALE	Peak X	Peak Y	Peak Z	Peak label
+SZ	1	1,584	44.95% Precuneus_L; 29.80% Cingulate_Post_L; 12.63% Cingulate_Post_R; 7.58% Precuneus_R	3.35	0.010	3.35	0.017	-2	-54	28	Cingulate_Post_L
+Control > Patient	1	1,248	34.62% Precuneus_R; 33.33% Cingulate_Mid_R; 32.05% no_label	3.54	0.011	3.54	0.011	14	-44	38	Precuneus_R

@@ -1,3 +1,0 @@
-Analysis	Cluster #	Size (mm3)	Cluster labels	Mean z	Mean ALE	Peak z	Peak ALE	Peak X	Peak Y	Peak Z	Peak label
-Activation likelihood estimation	1	1,096	45.26% Precuneus_L; 32.12% Cingulate_Post_L; 12.41% Cingulate_Post_R; 9.49% Precuneus_R	3.69	0.011	4.92	0.017	0	-52	28	Cingulate_Post_L
-	2	848	100.00% Frontal_Sup_Medial_L	3.49	0.010	4.25	0.014	-4	58	14	Frontal_Sup_Medial_L

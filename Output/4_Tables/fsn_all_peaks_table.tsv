@@ -1,5 +1,0 @@
-cluster_id	peak_x	peak_y	peak_z	cluster_mean	volume_mm	aal	fsn	contrast
-1.0	14.0	-44.0	38.0	3.7577017026069837	1248.0	34.62% Precuneus_R; 33.33% Cingulate_Mid_R; 32.05% no_label	4.8	control_minus_patient
-1.0	2.0	-52.0	30.0	3.6703233605936956	1520.0	45.79% Precuneus_L; 28.42% Cingulate_Post_L; 12.63% Cingulate_Post_R; 7.89% Precuneus_R	3.7	patient
-2.0	-10.0	60.0	24.0	3.5287437043951813	1352.0	94.08% Frontal_Sup_Medial_L; 5.92% Frontal_Sup_2_L	2.3	patient
-1.0	2.0	-52.0	30.0	3.736180304276823	1584.0	44.95% Precuneus_L; 29.80% Cingulate_Post_L; 12.63% Cingulate_Post_R; 7.58% Precuneus_R	6.5	SZ

@@ -1,0 +1,41 @@
+// Reference=MNI
+// Liu, 2014: Self: patients > controls (all)
+// Subjects=30
+-54	6	3
+-18	-75	6
+30	-27	18
+54	27	15
+24	-72	36
+-6	-15	42
+-18	-48	48
+30	-78	-36
+
+// Liu, 2014: Self: patients < controls (all)
+// Subjects=30
+-15	-9	-30
+3	-39	-36
+
+// Liu, 2014: president: patients > controls (all)
+// Subjects=30
+27	-60	36
+-9	18	9
+
+// Liu, 2014: President: patients < controls (all)
+// Subjects=30
+-30	9	3
+30	-3	-15
+57	-42	-9	
+9	-48	-15
+
+// Liu, 2014: self-others: patients > controls (all)
+// Standardized name for contrast: self>close+celebrity
+// Subjects=30
+-30	9	3
+42	0	-15
+60	-39	3
+
+// Liu, 2014: self-others: patients < controls (all)
+// Standardized name for contrast: self>close+celebrity
+// Subjects=30
+-54	-42	-24
+

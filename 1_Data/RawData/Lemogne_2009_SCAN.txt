@@ -1,0 +1,18 @@
+// Reference=MNI
+// Lemogne, 2009: self>general(patients, 14 females) 
+// Standardized name for contrast: self>nonPerson
+// Subjects=15
+6	48	18
+
+// Lemogne, 2009: self>general(controls, 11 females) 
+// Standardized name for contrast: self>nonPerson
+// Subjects=15
+6	48	18
+
+// Lemogne, 2009: self>general(patients>controls, 25females) 
+// Standardized name for contrast: self>nonPerson
+// Subjects=30
+-3	33	36
+9	24	39
+-48	18	24
+-18	48	18

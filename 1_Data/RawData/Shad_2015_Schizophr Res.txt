@@ -1,0 +1,10 @@
+// Reference=MNI
+// Shad,2015,SR(self-directed)>OR(other-directed) within the SR condition(Schizophrenia, female = 3)
+// (self-referential=SR,other-referential=OR)
+// Subjects=17
+-51	-9	30
+45	-30	54
+-18	-60	-18
+-63	-21	18
+-24	-60	15
+-24	-60	15

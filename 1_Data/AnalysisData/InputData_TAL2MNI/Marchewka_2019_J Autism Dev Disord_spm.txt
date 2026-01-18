@@ -1,0 +1,29 @@
+// Reference=Talaraich
+// Marchewka, 2019: ‘self’ + ‘past-self’ + ‘close-other’ (all, ASD+Typically developing group) 
+// Subjects=30
+14.75	-35.61	45.75
+32.93	36.44	46.16
+6.27	46.15	-9.26
+-40	-18.25	-6.58
+40.14	-1.21	10.54
+44.29	44.54	5.94
+
+// Marchewka, 2019: ‘self’ + ‘past-self’ + ‘close-other’ (all, ASD>Typically developing group) 
+// Subjects=30
+55.34	-19.23	12.06
+
+// Marchewka, 2019: ‘past-self’ (all, ASD>TD) 
+// Subjects=30
+59.46	-20.67	-3.55
+59.68	-49.72	7.16
+-12.62	-72.31	10.63
+-62.7	-14.07	-6.61
+-62.36	-46.55	13.41
+36.97	-19.3	12.38
+
+// Marchewka, 2019: ‘past-self’>'close-other'(all, ASD>Typically developing group) 
+// Standardized name for contrast: self>close 
+// Subjects=30
+59.46	-20.67	-3.55
+59.68	-49.72	7.16
+

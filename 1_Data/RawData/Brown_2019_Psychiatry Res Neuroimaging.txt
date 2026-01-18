@@ -1,0 +1,5 @@
+// Reference=MNI
+// Brown,2019,self>other(SAD>HC)
+// Standardized name for contrast: self>nonperson
+// Subjects=64
+24	−85	10

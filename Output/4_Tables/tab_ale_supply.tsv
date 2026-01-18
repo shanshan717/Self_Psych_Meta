@@ -1,4 +1,0 @@
-Analysis	Cluster #	Size (mm3)	Cluster labels	Mean z	Mean ALE	Peak z	Peak ALE	Peak X	Peak Y	Peak Z	Peak label
-Activation likelihood estimation	1	1,200	54.67% Frontal_Sup_Medial_R; 40.00% Cingulate_Ant_R	3.72	0.011	3.72	0.017	8	52	16	Frontal_Sup_Medial_R
-	2	648	46.91% Cingulate_Mid_L; 27.16% Supp_Motor_Area_L; 14.81% Frontal_Sup_Medial_L; 8.64% no_label	2.30	0.011	2.30	0.019	-8	14	42	Cingulate_Mid_L
-	3	648	95.06% Frontal_Inf_Oper_R	2.30	0.011	2.30	0.019	42	12	30	Frontal_Inf_Oper_R
