@@ -7,7 +7,7 @@ base::library(maps)
 base::library(scales)
 
 # Import data
-data_path <- "../2_Scripts/clean_self_ref_paper_excluded_age.csv"
+data_path <- "../2_Scripts/clean_self_ref_included_studies.csv"
 
 # ====================================================================
 # Figure S1: Geographical visulization 

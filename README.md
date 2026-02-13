@@ -1,14 +1,8 @@
 ## Project Overview
 
-This repository contains the data, analysis scripts, and results for a coordinate-based meta-analysis (CBMA) focusing on self-referential processing
-
-
-## GENERAL INFORMATION
-
-**Title of Project**  
-**Shared brain basis for altered self-referential processing across psychiatric disorders?  
-A systematic review and meta-analysis of neuroimaging studies**
-
+**Title**  
+Shared brain basis for altered self-referential processing across psychiatric disorders?  
+A systematic review and meta-analysis of neuroimaging studies
 
 ## Computational Environment
 
@@ -21,36 +15,26 @@ Analyses were conducted using:
 
 ```text
 .
-├── Data
-│   ├── AnalysisData        # Processed data used for meta-analyses
-│   ├── InputData           # Raw extracted coordinates and study-level information
-│   └── neurosynth          # Neurosynth-related decoding inputs and outputs
-│
-├── Output
-│   ├── 1_ALE               # ALE meta-analysis results
-│   ├── 2_Contrast          # Contrast and comparison analyses
-│   ├── 3_Tables            # Summary tables and statistics
-│   ├── 4_Decoding          # Functional decoding results
-│   ├── 5_Sankey            # Sankey diagrams linking disorders and brain regions
-│   ├── 8_wordcloud         # Word cloud visualizations            
-│   └── 9_other             # Additional or auxiliary outputs
-│
-├── Scripts
+├── 1_Data
+│   ├── AnalysisData
+│   └── RawData
+├── 2_Scripts
 │   ├── 1_ALE.ipynb
 │   ├── 2_Contrast.ipynb
 │   ├── 3_Tables.ipynb
 │   ├── 4_Decoding.ipynb
 │   ├── 5_Sankey.ipynb
-│   └── 6_Data_distribution.R
-│
-├── voxel2surface
-│   ├── Conj_L.shape.gii
-│   ├── ...
-│   └── sz_all.png
-│
-├── README.md
-└── requirements.txt
-
+│   └── 6_Supply_Figure_S1_and_S2.R
+├── 3_Output
+│   ├── 1_ALE
+│   ├── 2_Contrast
+│   ├── 3_Tables
+│   ├── 4_Decoding
+│   ├── 5_Sankey
+│   ├── 6_other
+│   └── 7_Voxel2surface
+│ 
+└── README.md
 ```
 
 **about the research data more details can see [scientific data bank](https://www.scidb.cn/en/detail?dataSetId=1b53c91112024d71b95c42bbd748141f&version=V4).**
@@ -67,7 +51,7 @@ Analyses were conducted using:
 ### Corresponding Author
 
 - Name: Hu Chuan-Peng
-- ORCID: xxxxx
+- ORCID: https://orcid.org/0000-0002-7503-5131
 - Institution: NanJing Normal Univeristy
 - Email: hcp4715@hotmail.com
 

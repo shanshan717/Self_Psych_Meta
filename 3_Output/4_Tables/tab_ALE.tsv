@@ -1,0 +1,3 @@
+Analysis	Cluster #	Size (mm3)	Cluster labels	Mean z	Mean ALE	Peak z	Peak ALE	Peak X	Peak Y	Peak Z	Peak label
+hyper_and_hypo	1	896	33.93% Precuneus_R; 33.93% no_label; 32.14% Cingulate_Mid_R	2.36	0.012	2.36	0.011	14	-44	38	Precuneus_R
+hypoactivation	1	1,248	34.62% Precuneus_R; 33.33% Cingulate_Mid_R; 32.05% no_label	3.54	0.011	3.54	0.011	14	-44	38	Precuneus_R
