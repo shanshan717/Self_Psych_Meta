@@ -1,0 +1,491 @@
+﻿Variable,A1,A2,R1,A3,A4,R2,A5,A6,R3,A7,A8,A9,A10,A11,A12,A13,A14,A15,A16,A17,A18,A19,A20,A21,A22,A23,A24,A25,A26,A27,A28,A29,A30,A31,A32,A33,A34,A35,A36,A37,A38,A39,A40,A41,A42,A43,A44,A45,A46,A47,A48,A49,A50,A51,A52,A53,A54,A55,A56,A57,A58,A59,A60,A61,A62,A63,A64,A65,A66,A67,A68,A69,A70,A71,A72
+Article ID,Fuentes_2020_NeuroImageClinical.txt,Fuentes_2020_NeuroImageClinical.txt,1,Furuichi_2019_AsianJPsychiatr.txt,Furuichi_2019_AsianJPsychiatr.txt,1,Shad_2015_Schizophr Res.txt,Shad_2015_Schizophr Res.txt,1,Makowski_2015_SCAN.txt,Makowski_2015_SCAN.txt,Murphy_2010_Schiz Research.txt,Murphy_2010_Schiz Research.txt,Pankow_2015_Schiz Bulletin.txt,Pankow_2015_Schiz Bulletin.txt,Pauly_2013_ Soc Cogn Affect Neurosci.txt,Pauly_2013_ Soc Cogn Affect Neurosci.txt,Shad_2012_Schizophr Res.txt,Shad_2012_Schizophr Res.txt,Zhang_2015_NeuroimageClin.txt,Zhang_2015_NeuroimageClin.txt,Bedford_2012_BMC Psychiatry.txt,Bedford_2012_BMC Psychiatry.txt,Jimenez_2018_Neuropsychologia.txt,Jimenez_2018_Neuropsychologia.txt,Liu_2014_Psychiatry Res.txt,Liu_2014_Psychiatry Res.txt,Tan_2015_Plos one.txt,Tan_2015_Plos one.txt,van der Meer_2013_Schizophr Bull.txt,van der Meer_2013_Schizophr Bull.txt,Vinogradov_2008_Cereb Cortex.txt,Vinogradov_2008_Cereb Cortex.txt,Blackwood_2004_Psychol Med.txt,Blackwood_2004_Psychol Med.txt,Lombardo_2010_Brain.txt,Lombardo_2010_Brain.txt,Marchewka_2019_J Autism Dev Disord.txt,Marchewka_2019_J Autism Dev Disord.txt,Hashimoto_2017_Soc Neurosci.txt,Hashimoto_2017_Soc Neurosci.txt,Lemogne_2009_SCAN.txt,Lemogne_2009_SCAN.txt,Lythe_2022_PsychologicalMedicine.txt,Lythe_2022_PsychologicalMedicine.txt,Sarsam_2013_PLoSOne.txt,Sarsam_2013_PLoSOne.txt,Blair_2011_PsychiatryRes.txt,Blair_2011_PsychiatryRes.txt,Bluhm_2012_ Acta Psychiatr Scand.txt,Bluhm_2012_ Acta Psychiatr Scand.txt,Herold_2017_JAffectiveDisorders.txt,Herold_2017_JAffectiveDisorders.txt,McAdams_2016_SCAN.txt,McAdams_2016_SCAN.txt,Holt_2011_Biological Psychiatry,Holt_2011_Biological Psychiatry,Belleau_2014_SCAN.txt,Belleau_2014_SCAN.txt,Kennedy_2008_SCAN.txt,Kennedy_2008_SCAN.txt,Beeney_2016_Personal Disorder.txt,Beeney_2016_Personal Disorder.txt,Hur_2021_JMIR Ment Health,Hur_2021_JMIR Ment Health,Brown_2019_Psychiatry Res Neuroimaging.txt,Brown_2019_Psychiatry Res Neuroimaging.txt,Pujol_2013_Psychol Med.txt,Pujol_2013_Psychol Med.txt,Leménager_2016_J Behav Addict.txt,Leménager_2016_J Behav Addict.txt,Komeda_2015_SCAN.txt,Komeda_2015_SCAN.txt,Bach_2021_ EurArchPsychiatryCliNeurosci.txt,Bach_2021_ EurArchPsychiatryCliNeurosci.txt
+First Author,Fuentes-Claramonte,Fuentes-Claramonte,1,Furuichi,Furuichi,1,Shad,Shad,1,Makowski,Makowski, Murphy , Murphy ,Pankow,Pankow,Pauly,Pauly,Shad,Shad,Zhang,Zhang,Bedford,Bedford,Jimenez,Jimenez,Liu,Liu,Tan,Tan,van der Meer,van der Meer,Vinogradov,Vinogradov,Blackwood,Blackwood,Lombardo,Lombardo,Marchewka,Marchewka,Hashimoto,Hashimoto,Lemogne,Lemogne,Lythe,Lythe,Sarsam,Sarsam,Blair,Blair,Bluhm,Bluhm,Herold,Herold,McAdams,McAdams,Holt,Holt, Belleau, Belleau,Kennedy,Kennedy,Beeney,Beeney,Hur,Hur,Brown,Brown,Pujol,Pujol,Leménager,Leménager,Komeda,Komeda,Bach,Bach
+Last Author,Salvador,Salvador,1,Suzuki,Suzuki,1,Keshavan,Keshavan,1,Olivier Harvey ,Olivier Harvey ,Keshavan ,Keshavan ,Schlagenhauf,Schlagenhauf,Habel,Habel,Keshavan,Keshavan,Meer,Meer,Brammer,Brammer,Green,Green,Wexler,Wexler,Zhou,Zhou,Aleman,Aleman,Simpson,Simpson,Howard,Howard,Baron-Cohen,Baron-Cohen,Nowicka,Nowicka,Kato,Kato,Fossati,Fossati,Zahn,Zahn,Kinderman,Kinderman,Pine,Pine,Lanius,Lanius,Felix Bermpohl,Felix Bermpohl,Krawczyk,Krawczyk,Moran,Moran,Larson,Larson,Courchesne,Courchesne,Levy,Levy,Cho,Cho,Craske,Craske,Martı ́n-Santos,Martı ́n-Santos,mann,mann,Okazawa,Okazawa,Leménager1,Leménager1
+Year,2020,2020,1,2019,2019,1,2015,2015,1,2016,2016,2010,2010,2015,2015,2013,2013,2012,2012,2015,2015,2012,2012,2018,2018,2014,2014,2015,2015,2013,2013,2008,2008,2004,2004,2010,2010,2019,2019,2017,2017,2009,2009,2020,2020,2013,2013,2011,2011,2012,2012,2017,2017,2016,2016,2011,2011,2014,2014,2008,2008,2016,2016,2021,2021,2019,2019,2013,2013,2016,2016,2015,2015,2021,2021
+Journal,NeuroImage: Clinical,NeuroImage: Clinical,1,Asian Journal of Psychiatry,Asian Journal of Psychiatry,1,Schizophr Res,Schizophr Res,1,SCAN,SCAN,Schizophrenia Research,Schizophrenia Research,Schiz Bulletin,Schiz Bulletin, Soc Cogn Affect Neurosci, Soc Cogn Affect Neurosci,Schizophr Res,Schizophr Res,Neuroimage Clin,Neuroimage Clin,BMC Psychiatry,BMC Psychiatry,Neuropsychologia,Neuropsychologia,Psychiatry Res,Psychiatry Res,Plos one,Plos one,Schizophr Bull,Schizophr Bull,Cereb Cortex,Cereb Cortex,Psychological Medicine,Psychological Medicine,Brain,Brain,J Autism Dev Disord,J Autism Dev Disord,Soc Neurosci,Soc Neurosci,SCAN,SCAN,Psychological Medicine,Psychological Medicine,PLoS One,PLoS One,Psychiatry Res,Psychiatry Res, Acta Psychiatr Scand, Acta Psychiatr Scand,Journal of Affective Disorders,Journal of Affective Disorders,SCAN,SCAN,Biological Psychiatry,Biological Psychiatry,SCAN,SCAN,SCAN,SCAN,Personal Disord,Personal Disord,JMIR Ment Health,JMIR Ment Health,Psychiatry Res Neuroimaging,Psychiatry Res Neuroimaging,Psychol Med,Psychol Med,J Behav Addict,J Behav Addict,SCAN,SCAN,European Archives of Psychiatry and Clinical Neuroscience,European Archives of Psychiatry and Clinical Neuroscience
+Study,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+group,schizophrenia and healthy,schizophrenia and healthy,1,"Healthy,Schizophrenia patients","Healthy,Schizophrenia patients",1, healthy control(HC)/ schizophrenia(SZ ), healthy control(HC)/ schizophrenia(SZ ),1,healthy control(HC)/schizophrenia(SZ),healthy control(HC)/schizophrenia(SZ),healthy controls(HC)/schizophrenia (SZ) ,healthy controls(HC)/schizophrenia (SZ) ,Healthy Controls(HC)/Schizophrenia Patients(SZ)/Individuals With Subclinical Delusional Ideation (PDI),Healthy Controls(HC)/Schizophrenia Patients(SZ)/Individuals With Subclinical Delusional Ideation (PDI),healthy control/Schizophrenia,healthy control(HC)/Schizophrenia（SZ） , healthy control/schizophrenia, healthy control(HC)/ schizophrenia(SZ ),bipolar disorder/HC,bipolar disorder(BD)/ schizophrenia(SZ)/HC,schizophrenia/HC,schizophrenia / HC,"Schizophrenia, healthy control","Schizophrenia, healthy control","schizophrenia group,controls","schizophrenia group,controls","schizophrenia, HC","schizophrenia patients (Sz), HC","schizophrenia patients (Sz), HC","SZ, HC","schizophrenia, HC","schizophrenia patients (Sz), HC","schizophrenia, healthy controls","schizophrenia, HC",Healthy controls/ASC,Healthy controls;Autism Spectrum Condition(ASC),"autism spectrum disorder (ASD), HC","autism spectrum disorder (ASD), HC:typically developing (TD)","autism spectrum disorder group, TD control individuals","autism spectrum disorder group, TD control individuals",healthy controls/depressed patients,controls/depressed patients,healthy controls/MDD,healthy controls/MDD,"healthy control, depressed","healthy control, depressed", Generalized social phobia (GSP) /HC, Generalized social phobia (GSP) /HC,healthy comparison(HC)/post-traumatic stress disorder (PTSD）,healthy comparison(HC)/post-traumatic stress disorder (PTSD）,"Healthy,Manic(bipolar I disorder)","Healthy,Manic(bipolar I disorder)","HC,AN-C(women with anorexia nervosa), AN-WR(women in weight recovery after anorexia nervosa)","HC,AN-C(women with anorexia nervosa), AN-WR(women in weight recovery after anorexia nervosa)",ss,ss,HealthyControl(HC)/Major Depressive Disorder (MDD),HealthyControl(HC)/Major Depressive Disorder (MDD),healthy control(HC)/autism spectrum disorder (ASD) ,healthy control(HC)/autism spectrum disorder (ASD) ,1,1,Healthy controls(HC)/social anxiety disorder (SAD),Healthy controls(HC)/social anxiety disorder (SAD),healthy comparison(HC)/Social anxiety disorder (SAD) ,healthy comparison(HC)/Social anxiety disorder (SAD) ,HC/Social anxiety disorder (SAD) ,healthy comparison(HC)/Social anxiety disorder (SAD) ,"Internet addiction group,HC","Internet addiction group,HC","autism spectrum disorder group,controls","autism spectrum disorder group,controls","Healthy,Pathological gamers","Healthy,Pathological gamers"
+healthy_sample,27,27,1,15,15,1,15,15,1,15,15,10,10,42,42,13,13,15,15,21,21,8,8,16,16,15,15,17,17,21,21,8,8,8,8,33,33,15,15,24,24,15,15,39,39,14,14,15,15,15,15,14,14,19,19,17,17,16,16,12,12,21,21,22,22,13,13,20,,19,19,15,15,29,29
+healthy_female,10,10,1,7,7,1,NA,NA,1,6,6,6,6,15,15,6,6,NA,NA,9,9,5,5,5,5,7,7,7,7,9,9,4,4,0,0,0,0,0,0,3,3,11,11,24,24,8,8,6,6,13,13,4,4,19,19,6,6,8,8,0,0,21,21,10,10,8,8,15,,12,12,2,2,NA,NA
+healthy_Race,Spanish speakers,Spanish speakers,1,NA,NA,1,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,UK,UK,"African American(25%),Hispanic(12.5%)","African American(25%),Hispanic(12.5%)",NA,NA,Chinese,Chinese,NA,NA,NA,NA,NA,NA,native English speakers,native English speakers, Polish, Polish,NA,NA, native French-speaker, native French-speaker,NA,NA,English speaker,English speaker,Caucasian/African-American/Asian ,Caucasian/African-American/Asian ,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Caucasian/African American/Latino/Latina,Caucasian/African American/Latino/Latina,,," Caucasian: 9 (69.2)
+Latino: 1 (7.7) 
+Asian American: 3 (23.1)
+African American: 0 (0.0) 
+Other: 0 (0.0) 
+Missing: 0 (0.0) "," Caucasian: 9 (69.2)
+Latino: 1 (7.7) 
+Asian American: 3 (23.1)
+African American: 0 (0.0) 
+Other: 0 (0.0) 
+Missing: 0 (0.0) ",NA,,NA,NA,Japanese,Japanese,NA,NA
+healthy_Age_mean,38.74,38.74,1,27.5,27.5,1,NA,NA,1,35.2,35.2,29.6,29.6,28.21,28.21,34.46,34.46,NA,NA,29.95,29.95,31,31,44.69,44.69,40.5,40.5,41.2,41.2,30,30,28,28,36,36,27.97,27.97,24.2,24.2,28.5,28.5,29.3,29.3,33.4,33.4,26.4,26.4,31.1,31.1,35,35,38.07,38.07,27.9,27.9,40,40,31.13,31.13,27.5,27.5,33.33,33.33,23.95,23.95,29.1,29.1,24.2,,27.68,27.68,26.1,26.1,21.14,21.14
+healthy_Age_SD,10.2,10.2,1,4.3,4.3,1,NA,NA,1,9.8,9.8,8.4,8.4,6.99,6.99,8.58,8.58,NA,NA,10.99,10.99,9,9,11.1,11.1,8.8,8.8,3.85,3.85,11,11,NA,NA,11,11,6.1,6.1,NA,NA,6.7,6.7,5.6,5.6,13.2,13.2,9.5,9.5,6.37,6.37,9.53,9.53,5.84,5.84,6,6,12.5,12.5,10.7,10.7,10.9,10.9,9.81,9.81,3.5,3.5,7.4,7.4,5.2,,7.95,7.95,5.2,5.2,2.33,2.33
+healthy_Age_min,23,23,1,NA,NA,1,NA,NA,1,20,20,18,18,19,19,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,31,31,NA,NA,NA,NA,25,25,20,20,18,18,21.7,21.7,NA,NA,NA,NA,NA,NA,18,18,NA,NA,NA,NA,NA,NA,20,20,NA,NA,NA,NA,15.9,15.9,18,18,NA,NA,NA,NA,na,,NA,NA,22,22,NA,NA
+healthy_Age_max,61,61,1,NA,NA,1,NA,NA,1,51,51,42,42,54,54,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,58,58,NA,NA,NA,NA,33,33,51,51,42,42,28.4,28.4,NA,NA,NA,NA,NA,NA,65,65,NA,NA,NA,NA,NA,NA,45,45,NA,NA,NA,NA,45.4,45.4,60,60,NA,NA,na,na,NA,,NA,NA,40,40,NA,NA
+healthy_Education,NA,NA,1,15.9,15.9,1,NA,NA,1,NA,NA,NA,NA, 16.88(3.04), 16.88(3.04) (13/24),13.31(3.20),13.31(3.20),NA,NA,NA,NA,16 (±3）,16 (±3）,15.5 (1.5),15.5 (1.5),NA,NA,11.3 (1.26),11.3 (1.26),5.8 (0.8),5.8 (0.8),16 (12-18),16 (12-18),NA,NA,NA,NA,NA,NA,NA,NA,14.7(1.8),14.7(1.8),17.4(2.6),17.4(2.6),15(3),15(3),NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,college degree,college degree,NA,NA,High school/Some college/College graduate/Postgraduate,High school/Some college/College graduate/Postgraduate,15.09 (1.88),15.09 (1.88),"Less than high school:0(0.0)
+High school:0(0.0)
+Some college:7(53.8)
+College Degree:5(38.5)","Less than high school:0(0.0)
+High school:0(0.0)
+Some college:7(53.8)
+College Degree:5(38.5)",0.2,,NA,NA,NA,NA,13.86,13.86
+patient_sample,23,23,1,13,13,1,17,17,1,15,15,11,11,22,22,13,13,17,17,17,17,11,11,20,20,15,15,18,18,47,47,8,8,8,8,29,29,15,15,26,26,15,15,70,70,13,13,15,15,20,20,14,14,22,22,18,18,16,16,13,13,17,17,25,25,51,51,20,,19,19,15,15,11,11
+patient_female,7,7,1,7,7,1,3,3,1,4,4,4,4,4,4,6,6,3,3,10,10,4,4,7,7,9,9,7,7,12,12,3,3,0,0,0,0,0,0,4,4,14,14,50,50,10,10,7,7,13,13,4,4,22,22,6,6,11,11,0,0,17,17,10,10,24,24,14,,5,5,1,1,NA,NA
+patient_Race,Spanish,Spanish speakers,0,NA,NA,1,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,UK,UK,"African American(35%),Hispanic(10%)","African American(35%),Hispanic(10%)",NA,NA,Chinese,Chinese,NA,NA,NA,NA,NA,NA,native English speakers,native English speakers, Polish, Polish,NA,NA, native French-speaker, native French-speaker,NA,NA,English speaker,English speaker,Caucasian/African-American/Asian ,Caucasian/African-American/Asian ,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Caucasian/African American/Latino/Latina,Caucasian/African American/Latino/Latina,,,"Caucasian: 25 (49.0)
+Latino: 6 (11.8) 
+Asian American:11 (21.6)
+African American: 2 (3.9) 
+Other: 6 (11.8) 
+Missing: 1 (2.0) ","Caucasian: 25 (49.0)
+Latino: 6 (11.8) 
+Asian American:11 (21.6)
+African American: 2 (3.9) 
+Other: 6 (11.8) 
+Missing: 1 (2.0) ",NA,,NA,NA,Japanese,Japanese,NA,NA
+patient_Age_mean,37,37,1,27,27,1,40,40,1,33.1,33.1,26.7,26.7,33.5,33.5,36.23,36.23,40,40,41.29,41.29,39,39,48.3,48.3,50,50,40.5,40.5,34.3,34.3,38,38,38,38,26.59,26.59,21.3,21.3,30.4,30.4,33.7,33.7,34.1,34.1,32.7,32.7,30.3,30.3,38.3,38.3,33.78,33.78,27.6,27.6,35.9,35.9,33.19,33.19,26.9,26.9,35.51,35.51,23.04,23.04,27.3,27.3,24.4,,25.68,25.68,26.7,26.7,21.45,21.45
+patient_Age_SD,8.06,8.06,1,5.3,5.3,1,10.3,10.3,1,7.7,7.7,6.36,6.36,7.31,7.31,9.46,9.46,10.3,10.3,11.82,11.82,11,11,9.9,9.9,7.4,7.4,5.48,5.48,10.7,10.7,NA,NA,17,17,7.04,7.04,NA,NA,6.9,6.9,9.5,9.5,12,12,7.6,7.6,8.49,8.49,9.33,9.33,10.45,10.45,7.6,7.6,13.7,13.7,11.49,11.49,12.3,12.3,10.84,10.84,3.35,3.35,6,6,5.6,,6.69,6.69,5.8,5.8,3.05,3.05
+patient_Age_min,22,22,1,NA,NA,1,22,22,1,20,20,19,19,24,24,NA,NA,22,22,NA,NA,NA,NA,NA,NA,39,39,NA,NA,NA,NA,25,25,20,20,18,18,21.3,21.3,NA,NA,NA,NA,NA,NA,18,18,NA,NA,NA,NA,NA,NA,20,20,NA,NA,NA,NA,15.7,15.7,18,18,NA,NA,NA,NA,NA,,NA,NA,17,17,NA,NA
+patient_Age_max,55,55,1,NA,NA,1,57,57,1,51,51,34,34,52,52,NA,NA,57,57,NA,NA,NA,NA,NA,NA,65,65,NA,NA,NA,NA,51,51,64,64,41,41,28.1,28.1,NA,NA,NA,NA,NA,NA,65,65,NA,NA,NA,NA,NA,NA,45,45,NA,NA,NA,NA,52,52,60,60,NA,NA,NA,NA,NA,,NA,NA,41,41,NA,NA
+patient_Education,,,1,14,14,1,13.2(1.9) (9–18),13.2(1.9) (9–18),1,NA,NA,NA,NA,16.03,16.03(4.37),12.69(3.07),12.69(3.07),13.2(1.9),13.2(1.9) (9–18),6,6,12 (±2）,12 (±2）,13.5 (2.9),13.5 (2.9),NA,NA,11.1 (2.7),11.1 (2.7),5.3 (1.1),5.3 (1.1),15 (10-19),15 (10-19),NA,NA,NA,NA,NA,NA,NA,NA,14.2(2.1),14.2(2.1),16.7(2.4),16.7(2.4),15(2.6),15(2.6),NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,High school/Some college/College graduate/Postgraduate,High school/Some college/College graduate/Postgraduate,14.44 (1.45),14.44 (1.45),"Less than high school:1(2.0)
+High school:10(19.6)
+Some college:13(25.5)
+College Degree:22(43.1)","Less than high school:1(2.0)
+High school:10(19.6)
+Some college:13(25.5)
+College Degree:22(43.1)",0.2,,NA,NA,,,14.09,14.09
+Disease,schizophrenia,schizophrenia,1,schizophrenia,schizophrenia,1, schizophrenia(SZ ), schizophrenia(SZ ),0,schizophrenia(SZ),schizophrenia(SZ),schizophrenia (SZ) ,schizophrenia,Schizophrenia,Schizophrenia,Schizophrenia,Schizophrenia, schizophrenia, schizophrenia(SZ ),bipolar disorder,bipolar disorder,schizophrenia,schizophrenia(SZ),Schizophrenia,Schizophrenia,schizophrenia,schizophrenia,schizophrenia,schizophrenia,schizophrenia,schizophrenia,schizophrenia,schizophrenia,schizophrenia,paranoid schizophrenia,Autism Spectrum,Autism Spectrum Condition(ASC),Autism spectrum disorder,ASD,ASD,autism spectrum disorder(ASD),Major Depressive Disorder (MDD),Major Depressive Disorder (MDD),Major Depressive Disorder,Major Depressive Disorder,Major Depressive Episode,Major Depressive Episode,Generalized social phobia,Generalized social phobia,post-traumatic stress disorder,post-traumatic stress disorder,bipolar I disorder,bipolar I disorder,AN-C(women with anorexia nervosa),AN-C(women with anorexia nervosa),Schizophrenia,Schizophrenia,Major Depressive Disorder,Major Depressive Disorder (MDD),autism spectrum disorder,autism spectrum disorder (ASD) ,borderline personality disorder (BPD),borderline personality disorder (BPD),SAD,social anxiety disorder (SAD),Social anxiety disorder,Social anxiety disorder (SAD) ,Social anxiety disorder,,Pathological  gamers,Pathological  gamers,autism spectrum disorder (ASD),autism spectrum disorder (ASD),Pathological gamers,Pathological gamers
+Clinical Status,clinica,clinica,1,clinical,clinical,1,clinical,clinical,1,clinical,clinical,clinical,clinical,clinical,clinical,clinical,clinical,clinical,clinical,clinical,clinical,clinical,clinical,clinical,clinical,clinical,clinical,clinical,clinical,clinical,clinical,clinical,clinical,clinical,clinical,clinical,clinical,clinical,clinical,clinical,clinical,clinical,clinical,clinical,clinical,clinical,clinical,clinical,clinical,clinical,clinical,clinical,clinical,clinical,clinical,clinical,clinical,clinica,clinica,clinical,clinical,clinical,clinical,clinical,clinical,clinical,clinical,clinical,,clinical,clinical,clinical,clinical,NA,NA
+Diagnostic criteria,DSM-IV-TR(2000),DSM-IV-TR(2000),1,"ICD-10 (World Health Organization, 1993)","ICD-10 (World Health Organization, 1993)",1,DSM-IV(1994),DSM-IV(1994),1,DSM-IV(1994) ,DSM-IV(1994) ,DSM-IV(1994),DSM-IV(1994),DSM-IV,"DSM-IV,ICD-10",DSM-IV,DSM-IV,DSM-IV,DSM-IV,"Mini International Neuropsychiatric Interview-Plus 5.0.0 (MINI-Plus; Sheehan et al.,1998)","Mini International Neuropsychiatric Interview-Plus 5.0.0 (MINI-Plus; Sheehan et al.,1998)",DSM-IV-TR,"DSM-IV-TR criteria(American Psychiatric Association, 2000)", DSM-IV, DSM-IV Axis I Disorders (SCID),DSM-IV,DSM-IV,DSM-IV,DSM-IV,MINI-Plus,Mini International Neuropsyatric Interview-Plus 5.0.0 （MINI-Plus,DSM-IV,DSM-4,ICD-10,ICD-10,ICD-10,ICD-10(1994),ADOS (module 4),Autism Diagnostic Observation Schedule,DSM-IV,Fourth  Edition (DSM-IV),DSM-IV,DSM-IV,DSM-IV-TR,DSM-IV-TR,DSM-IV,DSM-IV,DSM-IV,DSM-IV,DSM-IV,DSM-IV,DSM-IV,DSM-IV, DSM-IV, DSM-IV,DSM-IV,DSM-IV,DSM-IV,DSM-IV(1994),ADOS,"a clinical psychologist using the Autism Diagnostic Interview—Revised (ADI-R) (Lord et al., 1994),the Autism Diagnostic Observation Schedule (ADOS) (Lord et al., 2000)",DSM-IV,DSM-IV,DSM-IV,DSM-IV(1994) ,DSM-IV,DSM-IV(1994),DSM-IV,,"DSM-IV (SCID I and II; Wittchen, Zaudig, & Fydrich, 1997)","DSM-IV (SCID I and II; Wittchen, Zaudig, & Fydrich, 1997)","DSM-IV-TR; American Psychiatric Association, 2000","DSM-IV-TR; American Psychiatric Association, 2000",NA,NA
+Assessment Tools,"1.Positive and Negative Syndrome Scale (PANSS,Kay et al,1987)
+2.Clinical Global Impressions Scale (CGI,Guy,1976)","1.Positive and Negative Syndrome Scale
+2.Clinical Global Impressions Scale",0,"1.Scale for the Assessment of Negative and Positive Symptoms(SANS/SAPS)( Andreasen, 1984ab)",1.Scale for the Assessment of Negative and Positive Symptoms(SANS/SAPS),0,"1.Wechsler Test for Adult Reading (WTAR; Wechsler, 2001)
+2.Positive and Negative Syndrome Scale (PANSS; Kay et al., 1987)
+3.Scale to Assess Mental Disorder (SUMD; Amador et al., 1993)","1.Wechsler Test for Adult Reading (WTAR; Wechsler, 2001)
+2.Positive and Negative Syndrome Scale (PANSS; Kay et al., 1987)
+3.Scale to Assess Mental Disorder (SUMD; Amador et al., 1993)",0,"Wechsler Adult Intelligence Scale (WAIS)
+Calgary Depression Scale
+the Hamilton Anxiety Scale","1.the Wechsler Adult Intelligence Scale (WAIS)
+2.the Calgary Depression Scale (CDS; Addington et al .,1994 )
+3.the Hamilton Anxiety Scale (HAS; Hamilton, 1959 )",NA,NA,"1.Positive and Negative Syndrome Scale
+2.Schizotypal Personality Questionnaire","1.Positive and Negative Syndrome Scale (PANSS)
+2.Schizotypal Personality Questionnaire (SPQ)","1. the Assessment of Positive Symptoms
+2.the Scale for the Assessment of Negative Symptoms
+3.The Global Assessment of Functioning scale
+4.The Hamilton Depression Scale","1. the Assessment of Positive Symptoms (SAPS; Andreasen, 1984
+2.the Scale for the Assessment of Negative Symptoms (SANS; Andreasen, 1983)
+3.The Global Assessment of Functioning scale (American Psychiatric Association, 1994)
+4.The Hamilton Depression Scale (Hamilton, 1960) ","1.Wechsler Test for Adult Reading
+2.Positive and Negative Syndrome Scale
+3.Scale to Assess Mental Disorder","1.Wechsler Test for Adult Reading (WTAR; Wechsler, 2001)
+2.Positive and Negative Syndrome Scale (PANSS; Kay et al., 1987)
+3.Scale to Assess Mental Disorder (SUMD; Amador et al., 1993)","1.the Quick Inventory of Depressive Symptomatology
+2.Young Mania Rating Scale
+3.the Positive and Negative Syndrome Scale (PANSS)","1.the Quick Inventory of Depressive Symptomatology (QIDS-SR; Rush et al.,2003) 
+2.Young Mania Rating Scale (YMRS; Young et al.,1978)
+3.the Positive and Negative Syndrome Scale (PANSS; Kay et al.,1987)","1. the Positive and Negative Syndrome Scale (PANSS)
+2. Schedule for the Assessment of Insight-expanded version (SAI-E)
+3. Parts A and B of the Trail Making Test
+4. Wechsler Adult Intelligence Scale (WAIS III)
+5. the Wechsler Abbreviated Scale of Intelligence (WASI)","1. the Positive and Negative Syndrome Scale (PANSS)
+2. Schedule for the Assessment of Insight-expanded version (SAI-E)
+3. Parts A and B of the Trail Making Test
+4. Wechsler Adult Intelligence Scale (WAIS III)
+5. the Wechsler Abbreviated Scale of Intelligence (WASI)","1.Brief Psychiatric Rating Scale
+2.Scale for the Assessment of Negative Symptoms","1.Brief Psychiatric Rating Scale (BPRS) 
+2.Scale for the Assessment of Negative Symptoms (SANS)
+3. Role Functioning Scale (RFS)",Positive and Negative Syndrome Scale,Positive and Negative Syndrome Scale (PANSS),Positive and Negative Syndrome Scale,Positive and Negative Syndrome Scale (PANSS),"1.positive and negative syndrome scale (PANSS); 
+2.Schedule of Assessment of Insight-Expanded version (SAI-E); 
+3.Beck Cognitive Insight Scale (BCIS)","1.positive and negative syndrome scale (PANSS); 
+2.Schedule of Assessment of Insight-Expanded version (SAI-E); 
+3.Beck Cognitive Insight Scale (BCIS)","1.positive and negative syndrome scale (PANSS); 
+2.IQ","1.positive and negative syndrome scale (PANSS); 
+2.IQ","1. the Scale for the Assessment of Positive Symptoms
+2. the Scale for the Assessment of Negative Symptoms
+3. the Beck Depression Inventory","1. the Scale for the Assessment of Positive Symptoms
+2. the Scale for the Assessment of Negative Symptoms
+3. the Beck Depression Inventory","1.the Toronto Alexithymia Scale (Bagby et al.,1994)
+2.Autism Spectrum Quotient (Baron-Cohen et al.,2001)
+3.Autism Diagnostic Interview-Revised (ADI-R) (Lord et al.,1994)","1.the Toronto Alexithymia Scale (Bagby et al.,1994)
+2.Autism Spectrum Quotient (Baron-Cohen et al.,2001)
+3.Autism Diagnostic Interview-Revised (ADI-R) (Lord et al.,1994)","1.Polish version of the Wechsler Intelligence Scale for Adults—Revised (WAIS-R, PL)
+2.ADOS","1.Polish version of the Wechsler Intelligence Scale for Adults—Revised
+","1.WAIS: Wechsler Adult Intelligence Scale
+2.AQ: Autism Quotient
+3.HADS: Hamilton Anxiety  Depression Scale","1.WAIS: Wechsler Adult Intelligence Scale
+2.AQ: Autism Quotient
+3.HADS: Hamilton Anxiety  Depression Scale","1.Mini International Neuropsychiatric Interview
+2.Montgomery–Asberg Depression Rating Scale
+3.the Beck Depression Inventory (BDI)","1.Mini International Neuropsychiatric Interview (Sheehan et al., 1998)
+2.Montgomery–Asberg Depression Rating Scale (MADRS) 
+3.the Beck Depression Inventory (BDI) (Beck et al.,1961; Montgomery and Asberg, 1973)","Montgomery Asberg Depression Scale,Interpersonal Guilt Questionnaire,Personal Style Inventory – Revised Edition","Montgomery Asberg Depression Scale,Interpersonal Guilt Questionnaire,Personal Style Inventory – Revised Edition",Beck Depression Inventory II (BDI-II) ,Beck Depression Inventory II (BDI-II) ,NA,NA,"Clinician Administered PTSD Scal Questionnaire(CTQ),Clinician Administered PTSD Scale(CAPS)","the Clinician Administered PTSD Scal
+the Clinician Administered PTSD Scale,Childhood Trauma Questionnaire(CTQ),Clinician Administered PTSD Scale(CAPS)",Young Mania Rating Scale,.Young Mania Rating Scale,"1.Quick Inventory of Depressive Symptoms
+2.Structured Interview Guide for the Hamilton Anxiety Scale
+3.Eating Disorder Examination Questionnaire
+4.the Eating Attitudes Test","1.Quick Inventory of Depressive Symptoms(QIDS-CR)
+2.Structured Interview Guide for the Hamilton Anxiety Scale(SIGH-A)
+3.Eating Disorder Examination Questionnaire (EDE-Q)
+4.the Eating Attitudes Test (EAT) ",PANSS,PANSS,"1.the Beck Depression Inventory-II
+2.the rumination subscale of the Response Styles Questionnaire","1.the Beck Depression Inventory-II (BDI-II; Beck et al., 1979)
+2.the rumination subscale of the Response Styles Questionnaire (Nolen-oeksema,1991)",1.the Wechsler Adult Intelligence Scale (WAIS) or WAIS-R,1.the Wechsler Adult Intelligence Scale (WAIS) or WAIS-R (Revised),1.The Differentiation of Self Inventory,"1.The Differentiation of Self Inventory (DSI; Skowron & Friedlander, 1998)","1.the Diagnostic and Statistical Manual of Mental Disorders
+2.Fourth Edition criteria for social anxiety disorder
+3.the Social Avoidance and Distress Scale","1.the Diagnostic and Statistical Manual of Mental Disorders
+2.Fourth Edition criteria for social anxiety disorder
+3.the Social Avoidance and Distress Scale","1.the Anxiety Disorders Interview Schedule (ADIS)(Di Nardo et al., 1994),
+2.Liebowitz Social Anxiety Scale-Self Report Version (LSAS;Liebowitz,1987)","1.the Anxiety Disorders Interview Schedule (ADIS)(Di Nardo et al., 1994),
+2.Liebowitz Social Anxiety Scale-Self Report Version (LSAS;Liebowitz,1987)","Liebowitz Social Anxiety Scale,17-item Hamilton Rating Scale for Depression,15-item Patient Health Questionnaire",,NA,NA,the Diagnostic Interview for Social and Communication Disorders,"the Diagnostic Interview for Social and Communication Disorders(Wing et al., 2002)",NA,NA
+Assessment Scores,"1.PANSS(mean=69,sd=18.19,range=39-115)
+2.CGI(mean=4.17,sd=0.89,range=3-6)","1.PANSS(mean=69,sd=18.19,range=39-115)
+2.CGI(mean=4.17,sd=0.89,range=3-6)",1,"1.SAPS=20.8(20.4)
+2.SANS=30.6(14.1)","1.SAPS=20.8(20.4)
+2.SANS=30.6(14.1)",1,"1.scores: Premorbid verbal IQ (range): Mean=98 (11.4) (79–118); Awareness of symptoms: Mean=2.31 (1.46)(1–5); Attribution of symptoms : Mean=1.72(1.32 )(1–5); PANSS total (range): Mean=64.76 (14.67) (43–100); 
+2.duration of illness (years): 17.88(5.63)
+3.meditation: yes, Chlorpromazine equivalent dose: 346.3 (234.0)","1.scores: Premorbid verbal IQ (range): Mean=98 (11.4) (79–118); Awareness of symptoms: Mean=2.31 (1.46)(1–5); Attribution of symptoms : Mean=1.72(1.32 )(1–5); PANSS total (range): Mean=64.76 (14.67) (43–100); 
+2.duration of illness (years): 17.88(5.63)
+3.meditation: yes, Chlorpromazine equivalent dose: 346.3 (234.0)",0,Performance IQ,"1.Verbal IQ(mean=99.4,sd=14.0)
+2.Performance IQ(mean=103,sd=15.0)  ",NA,NA,"1.PANSS total(mean=74.41,sd=24.22)
+2.SPQ total(mean=30.82,sd=15.2)","1.PANSS total(mean=74.41,sd=24.22)
+2.SPQ total(mean=30.82,sd=15.2)","1.SAPS(mean=4.31,sd=4.21)
+2.SANS(mean=7.00,sd=4.28)
+3.the Global Assessment of Functioning scale(mean=46.15,sd=14.46)
+4.the Hamilton Depression Scale(mean=6.15,sd=4.76)","1.SAPS(mean=4.31,sd=4.21)
+2.SANS(mean=7.00,sd=4.28)
+3.the Global Assessment of Functioning scale(mean=46.15,sd=14.46)
+4.the Hamilton Depression Scale(mean=6.15,sd=4.76)","1.scores: Premorbid verbal IQ (range): Mean=98 (11.4) (79–118); Awareness of symptoms: Mean=2.31 (1.46)(1–5); Attribution of symptoms : Mean=1.72(1.32 )(1–5); PANSS total (range): Mean=64.76 (14.67) (43–100); 
+2.duration of illness (years): 17.88(5.63)
+3.meditation: yes, Chlorpromazine equivalent dose: 346.3 (234.0)","1.scores: Premorbid verbal IQ (range): Mean=98 (11.4) (79–118); Awareness of symptoms: Mean=2.31 (1.46)(1–5); Attribution of symptoms : Mean=1.72(1.32 )(1–5); PANSS total (range): Mean=64.76 (14.67) (43–100); 
+2.duration of illness (years): 17.88(5.63)
+3.meditation: yes, Chlorpromazine equivalent dose: 346.3 (234.0)","1.QIDS(mean=6.35,sd=6.17)
+2.YMRS(mean=1.31,sd=1.49)
+3.PANSS(mean=40.81,sd=6.27)","1.QIDS(mean=6.35,sd=6.17)
+2.YMRS(mean=1.31,sd=1.49)
+3.PANSS(mean=40.81,sd=6.27)","1. mean SAI-E total score of 16.2(sd = 8.6; range = 4 to 28)
+2. WASI  IQ socre:101.3 (±17.3)
+3. PANSS:82.0 (±16.4)","1. mean SAI-E total score of 16.2(sd = 8.6; range = 4 to 28)
+2. WASI  IQ socre:101.3 (±17.3)
+3. PANSS:82.0 (±16.4)","1.BPRS: Total score: 45.1 (13.8)
+2.SANS: 39.9 (12.8)
+3.RFS: 15.2 (4.1)","1.BPRS: Total score: 45.1 (13.8), Average positive symptoms: 1.04 (0.5)
+2.SANS: 39.9 (12.8)
+3.RFS: 15.2 (4.1)",PANSS score: mean=60.8 ± 15.3 (range 49–92),PANSS score: mean=60.8 ± 15.3 (range 49–92).,"1.total scores: 59.1 (12.3); 
+2.Positive symptoms: 8.7 (3.7); 
+3.Negative symptoms: 21.7 (6); 
+4.Cognitive scores: 12.1 (3.3); 
+5.Hostility scores: 5.8 (2.2); 
+6. Emotional discomfort scores: 10.8 (1.6)","1.total scores: 59.1 (12.3); 
+2.Positive symptoms: 8.7 (3.7); 
+3.Negative symptoms: 21.7 (6); 
+4.Cognitive scores: 12.1 (3.3); 
+5.Hostility scores: 5.8 (2.2); 
+6. Emotional discomfort scores: 10.8 (1.6)","PANSS: 
+1.Total: 58 (13.4); 
+2.Positive: 14.8 (4.9); 
+3.Negative: 13.7 (4.6); 
+4.General psychopathology: 29.6 (7）
+SAI-E: 
+1.Total: 13 (5.7); 
+2.Awareness: 8.2 (3.5); 
+3.Relabling: 3.3 (2); 
+4.Treatment: 1.5 (1.5) 
+BCIS: 
+1.Composite score: 6.6 (5); 
+2.Self-refiectiveness: 17.4 (6.2); 
+3.Self-certainty: 10.8 (4.7)","PANSS: 
+1.Total: 58 (13.4); 
+2.Positive: 14.8 (4.9); 
+3.Negative: 13.7 (4.6); 
+4.General psychopathology: 29.6 (7）
+SAI-E: 
+1.Total: 13 (5.7); 
+2.Awareness: 8.2 (3.5); 
+3.Relabling: 3.3 (2); 
+4.Treatment: 1.5 (1.5) 
+BCIS: 
+1.Composite score: 6.6 (5); 
+2.Self-refiectiveness: 17.4 (6.2); 
+3.Self-certainty: 10.8 (4.7)","PANSS: 
+1.mean overall: 2.5 (2.1-2.9); 
+2.Positive: 2.8; 
+3.Negative: 2.0; 
+4.disorganized symptoms: 2.6 
+IQ: 108 (102-119)","PANSS: 
+1.mean overall: 2.5 (2.1-2.9); 
+2.Positive: 2.8; 
+3.Negative: 2.0; 
+4.disorganized symptoms: 2.6 
+IQ: 108 (102-119)","1.the persecutory delusions subscale of the Scale for the Assessment of Positive Symptoms：3.5(0.5)
+2.BDI: 11.1(6.9) ","1.the persecutory delusions subscale of the Scale for the Assessment of Positive Symptoms：3.5(0.5)
+2.BDI: 11.1(6.9) ","1.ADI-R-Social(mean=18.07,sd=5.07),ADI-R-Communication(mean=15.17,sd=4.24),ADI-R-Repetitive(mean=5.97,sd=2.76)
+2.AQ(mean=15.24,sd=6.89)
+3.TAS(mean=42.88,sd=10.66)","1.ADI-R-Social(mean=18.07,sd=5.07),ADI-R-Communication(mean=15.17,sd=4.24),ADI-R-Repetitive(mean=5.97,sd=2.76)
+2.AQ(mean=15.24,sd=6.89)
+3.TAS(mean=42.88,sd=10.66)",NA,NA,"Estimated IQ:109.8±9.8
+WAIS FIQ:106.1±16.2
+WAIS VIQ:111.0±11.8
+WAIS PIQ:98.9±16.2
+AQ:36.3±5.3
+HADS Total:14.7±8.9
+HADS Depression:6.6±4.8
+HADS Anxiety:8.1±4.5","Estimated IQ:109.8±9.8
+WAIS FIQ:106.1±16.2
+WAIS VIQ:111.0±11.8
+WAIS PIQ:98.9±16.2
+AQ:36.3±5.3
+HADS Total:14.7±8.9
+HADS Depression:6.6±4.8
+HADS Anxiety:8.1±4.5","1.MADRS= 28.1(6.0)
+2.BDI=18.4(4.4)","1.MADRS= 28.1(6.0)
+2.BDI=18.4(4.4)",NA,NA,"1.BDI-II:score of 15 or above=the depressed group, or 7 or below in the control group","1.BDI-II:score of 15 or above=the depressed group, or 7 or below in the control group",NA,NA,1.scores: CAPS:Mean=71.70(23.35),1.scores: CAPS:Mean=71.70(23.35),NA,NA,"1.QIDS-CR(mean=6.7,sd=5.3)
+3.EDE-Q(mean=3.94,sd=1.94)
+4.EAT(mean=39.0,sd=17.9)","1.QIDS-CR(mean=6.7,sd=5.3)
+3.EDE-Q(mean=3.94,sd=1.94)
+4.EAT(mean=39.0,sd=17.9)",PANSS=47.3(10.0),PANSS=47.3(10.0),"1.BDI-II(mean=23.13,sd=6.33)
+2.RSQ-Rumination(mean= 56.19,sd=11.42)","1.BDI-II(mean=23.13,sd=6.33)
+2.RSQ-Rumination(mean= 56.19,sd=11.42)","1.IQ Full-scale(mean=101.7,sd=14.6)","1.IQ Full-scale(mean=101.7,sd=14.6)","1.DSI(mean=3.30,sd=0.47)","1.DSI(mean=3.30,sd=0.47)","1.Social Phobia Scale(mean=32.52,sd=13.17)
+2.Negative PERS(mean=32.24,sd=11.18)
+3.Positive PER(mean=3.84,sd=5.41)","1.Social Phobia Scale(mean=32.52,sd=13.17)
+2.Negative PERS(mean=32.24,sd=11.18)
+3.Positive PER(mean=3.84,sd=5.41)",NA,NA,HAMD-17=3.1(2.2);PHQ-15=5.1 (3.5),HAMD-17=3.1(2.2);PHQ-15=5.1 (3.5),NA,NA,NA,NA,NA,NA
+Medication,"chlorpromazine equivalent, daily dose in mg:498.77(490.27),range=62.5-2400","chlorpromazine equivalent, daily dose in mg:498.77(490.27),range=62.5-2400",1,"3.1(4.9)(years)
+drug dose (mg/day, haloperidol equivalent):9.0(6.1)",yes,0,yes,"Chlorpromazine equivalent dose(mean=346.3,sd=234.0)",0,NA,NA,NA,NA,"Chlorpromazine equivalent(mean=384.81,sd=218.16)","Chlorpromazine equivalent(mean=384.81,sd=218.16)",NA,NA,Chlorpromazine equivalent dose,"Chlorpromazine equivalent dose(mean=346.3,sd=234.0)","Pimozide (n=1),Olanzapine (n=2),Quetiapine (n=6),Lithium (n=7),Sertraline (n=1),Trazodone (n=1),Valproic acid (n=3),Bupropion (n=1),Oxazepam (n=1),None (n=1)","Pimozide (n=1),Olanzapine (n=2),Quetiapine (n=6),Lithium (n=7),Sertraline (n=1),Trazodone (n=1),Valproic acid (n=3),Bupropion (n=1),Oxazepam (n=1),None (n=1)",NA,NA,chlorpromazine equivalent=340.6(229.5),chlorpromazine equivalent=340.6(229.5) (mg/day),"
+5337(576)mg/day","yes
+chlorpromazine equivalent mean doses (Andreasen et al., 2010): 5337 576 mg/day",Antipsychotic medication,Antipsychotic medication,Antipsychotic medication,Antipsychotic medication,Antipsychotic medication,Antipsychotic medication,"maintenance neuroleptic medication:
+1.atypical antipsychotics(n=7);
+2.typical antipsychotics(250 mg in chlorpromazine equivalents)(n=1)","maintenance neuroleptic medication:
+1.atypical antipsychotics(n=7);
+2.typical antipsychotics(250 mg in chlorpromazine equivalents)(n=1)",NA,NA,NA,NA,NA,NA,yes,"elective serotonin reuptake inhibitor(n=7),serotonin-norepinephrine reuptake inhibitor(n=5),tricyclic antidepressant(n=3);
+Sedative drugs were not allowed on the experiment day",no,no,NA,NA,NA,NA,NA,NA,yes,yes,NA,NA,NA,NA,"duloxetine hydrochloride/Cymbalta(n=2),bupropion hydrochloride/Wellbutrin XL(n=1),bupropion hydrochloride and fluoxetine hydrochloride/Prozac(n=1),risperidone/Risperdal(n=1)","duloxetine hydrochloride/Cymbalta(n=2),bupropion hydrochloride/Wellbutrin XL(n=1),bupropion hydrochloride and fluoxetine hydrochloride/Prozac(n=1),risperidone/Risperdal(n=1)",NA,NA,yes,"10 participants took medications;
+antidepressants(n=7),antipsychotics(n=4),mood stabilizers(n=5),anxiolytics(n=3)",NA,NA,"Current medications for emotional problem(n=8),Previous medications for emotional problem(n=23)","Current medications for emotional problem(n=8),Previous medications for emotional problem(n=23)",NA,NA,NA,NA,NA,NA,NA,NA
+Disease Duration,NA,NA,1,4.9(6.1)(years),4.9(6.1)(years),0,"mean=17.88(years),sd=5.63","mean=17.88(years),sd=5.63",0,NA,NA,"mean=3.36+4.82(years),median=2.4years","mean=3.36+4.82(years),median=2.4years",6.38(6.1),"mean=6.38(years),sd=6.1","mean=12.0(years),sd=6.93","mean=12.0(years),sd=6.93","mean=17.88(years),sd=5.63","mean=17.88(years),sd=5.63",NA,NA,12 (±8),12 (±8),NA,NA,24.77 ± 10.1,24.77 ± 10.1,15.9 (6.3),15.9 (6.3),NA,NA,10,10,NA,NA,NA,NA,NA,NA,NA,NA,9.7(11.4),"mean=9.7(years),sd=11.4",NA,NA,NA,NA,NA,NA,NA,NA,9.89(9.78),9.89(9.78),NA,NA,13.2(12.8),13.2(12.8),"mean=21.63(months),sd= 49.49","mean=21.63(months),sd= 49.49",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Treatment,NA,NA,1,NA,NA,1,NA,NA,1,NA,NA,NA,NA,NA,"mean=35.26(months),sd=38.90",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"CBT treatment(n=17),ACT (n = 20) ","CBT treatment(n=17),ACT (n = 20) ",NA,NA,NA,NA,NA,NA,NA,NA
+Comorbidity,NA,NA,1,NA,NA,1,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,yes,comorbid panic attacks(n=1),NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,yes,yes,"social phobia(n=2),social and specific phobias(n=2),generalized anxiety disorder(n=2),generalized anxiety disorder and social phobia(n=2),generalized anxiety disorder and panic disorder(n=1),posttraumatic stress disorder(n=1),specific phobia(n=1),anxiety disorder not otherwise specified(n=1)","social phobia(n=2),social and specific phobias(n=2),generalized anxiety disorder(n=2),generalized anxiety disorder and social phobia(n=2),generalized anxiety disorder and panic disorder(n=1),posttraumatic stress disorder(n=1),specific phobia(n=1),anxiety disorder not otherwise specified(n=1)",NA,NA,yes,"mood disorders(n=7),anxiety disorders(n=6),Post-Traumatic Stress Disorder(n=4),alcohol-related disorders(n=4),somatoform or eating disorders(n=3)",NA,NA,NA,NA,NA,NA,NA,NA,"Asperger’s disorder(n=3),autistic disorder(n=12)","Asperger’s disorder(n=3),autistic disorder(n=12)",,
+Channel,"patients from three psychiatric hospitals (Benito Menni CASM, Sagrat
+  Cor de Martorell and Hospital Sant Rafael); healthy individuals recruited from non-medical staff working in the hospital,",hospitals,0,"1. Toyama University Hospital
+  2. community, hospital staff, and university students","1.Toyama University Hospital
+  2.community, hospital",0,1.healthy:advertisement,1.healthy:advertisement,0,"Douglas Mental Health University Institute and
+online advertisements","1.Patients：several outpatient clinics affiliated with the Douglas Mental Health University Institute
+2.Healthy Controls：online advertisements",University School of Medicine,"Department of Psychiatry,Wayne State University School of Medicine","1.Healthy controls were recruited via online advertisement and mailing lists
+2.Patients were recruited at the Department of Psychiatry 
+and Psychotherapy (Campus Charité Mitte) of the Charité-Universitätsmedizin Berlin.","online advertisement
+Department of Psychiatry ","1.patients:be recruited from the inpatient ward and outpatient clinic of the Department of Psychiatry, Psychotherapy,and Psychosomatic Medicine, RWTH Aachen University","1.patients:be recruited from the inpatient ward and outpatient clinic of the Department of Psychiatry, Psychotherapy,and Psychosomatic Medicine, RWTH Aachen University",advertisement,1.healthy:advertisement,"1.mental health care institutions in the North of the Netherlands;
+2. SZ patients sample of a previous study.","1. BD patients: mental health care institutions in the North of the Netherlands;
+2. SZ patients sample of a previous study (Van der Meer et al., 2013)","Hospitals
+advertisement","1. patients: the Maudsley and Bethlem Hospitals and their affiliated clinics in London;
+2. healthy controls: advertisement placed in a London community centre","1.controls: internet postings and interview
+2. patients: community outpatient treatment clinics","1.controls: internet postings and interview
+2. patients: community outpatient treatment clinics",NA,NA,"1.patients: Hospital; 
+2. HC:poster advertisements.","1.patients:  from Beijing HuiLongGuan Hospital in China; 
+2. HC:  from the surrounding community through poster advertisements.","1.42 patients: recruited from several mental health institutions, 5 patients: hrough patient and family organizations or the website of the  study; 
+2.HC: recruited by means of flyers and posters.","1.42 patients: recruited from several mental health institutions, 5 patients: hrough patient and family organizations or the website of the  study; 
+2.HC: recruited by means of flyers and posters.",NA,NA,NA,NA,University of Cambridge,University of Cambridge,1.ASD group:by the psychologists and therapists from the SYNAPSIS foundation,1.ASD group:by the psychologists and therapists from the SYNAPSIS foundation,"1.patients:outpatient units of the Karasuyama Hospital, Tokyo, Japan
+2.controls:advertising and  acquaintances","1.patients:outpatient units of the Karasuyama Hospital, Tokyo, Japan
+2.controls:advertising and  acquaintances","Hospital psychiatry department,community","1.patients: from the Pitie´-Salpeˆtrie`re Hospital psychiatry department
+2.healthy: community",UK Medical Research Council-funded ‘Development of Cognitive,UK Medical Research Council-funded ‘Development of Cognitive,in GP surgeries within Central and South Liverpool Primary Care Trusts;advertisements in the local media,in GP surgeries within Central and South Liverpool Primary Care Trusts;advertisements in the local media,NIMH Institutional- Review-Board (IRB) approved advertisements ,NIMH Institutional- Review-Board (IRB) approved advertisements ,all:were recruited via flyers posted in the general community as well as from a specialized trauma-treatment center ,all:were recruited via flyers posted in the general community as well as from a specialized trauma-treatment center ,,,University of Texas at Southwestern Medical School,University of Texas at Southwestern Medical School,advertusement,advertusement,NA,NA,NA,NA,community mental health clinic,clinic,advertisements posted online,"all participants: via advertisements posted online (eg, forums, social media, and a website)"," the Anxiety and Depression Research Center at the University of California, Los Angeles campus"," the Anxiety and Depression Research Center at the University of California, Los Angeles campus",public media advertisement,public media advertisement,clinic,clinic,"1.patients:Department of Neuropsychiatry of the University of Fukui Hospital, Japan, and the Department of Psychiatry and Neurobiology of the Kanazawa University Hospital, Japan
+2.controls:the local community","1.patients:Department of Neuropsychiatry of the University of Fukui Hospital, Japan, and the Department of Psychiatry and Neurobiology of the Kanazawa University Hospital, Japan
+2.controls:the local community","advertisement and outpatient care for pathological gamers in the Central 
+  Institute of Mental Health","advertisement and outpatient care for pathological gamers in the Central 
+  Institute of Mental Health"
+Location,"Barcelona, Spain","Barcelona, Spain",1,"Toyama, Japan","Toyama, Japan",1,"OR, United States","OR, United States",1,"British Columbia,Canada","British Columbia,Canada","Detroit Michigan, US","Detroit Michigan, United States","Berlin, Germany","Berlin, Germany","Aachen,Germany","Aachen,Germany","OR, United States","OR, United States","Groningen, The Netherlands","Groningen, The Netherlands","London, England","London, England",USA,USA,NA,NA,"Beijing, China","Beijing, China",Netherlands,North of the Netherlands,"San Francisco,US",San Francisco,UK,UK,"Cambridge,UK","Cambridge,UK",Poland,Poland,"Tokyo, Japan","Tokyo, Japan","Paris, France","Paris, France",UK,UK,"Liverpool, United Kingdom","Liverpool, United Kingdom","Maryland, United States","Maryland, United States","London,Canada","London,Canada","Neuruppin, Germany","Neuruppin, Germany","Texas, us","Texas, us","Cambridge,UK","Cambridge,UK","Milwaukee,USA","Milwaukee,USA","San Diego,USA ","San Diego,USA ","Pennsylvania, USA","Pennsylvania, USA","Seoul, Korea","Seoul, Korea","Los Angeles,USA","Los Angeles,USA","Barcelona, Spain","Barcelona, Spain","Kraichtal, Germany","Kraichtal, Germany","Kyoto,Japan","Kyoto,Japan","Mannheim, Germany","Mannheim, Germany"
+Terms_self,"self-reflection,Self- and other-reflection","self-reflection,Self- and other-reflection",1,"self-awareness,self-reflective,self-evaluation","self-awareness,self-reflective,self-evaluation",1,"self-awareness, self-referential,  self-reflection","self-awareness, self-referential,  self-reflection",1,"self-processing,self-referential processing ","self-processing,self-referential processing ","Self reflection,self-awareness,self-evaluation","Self reflection,self-awareness,self-evaluation","self-referential processing,self-relevance,
+self-reflection","self-referential processing,self-relevance,
+self-reflection","self-evaluation,self-referential ","self-evaluation,self-referential ","self-awareness, self-referential,  self-reflection","self-awareness, self-referential,  self-reflection","Self-reflection, self-reflective processing, self-serving bias","Self-reflection, self-reflective processing, self-serving bias","self-reflective process, self-evaluative process","self-reflective process, self-evaluative process",self-related processing,self-related processing,"self-representation,self-referential processing","self-representation,self-referential processing"," Self-evaluation, self-reflection, self-referential processing, self-awareness, self-appraisal"," Self-evaluation, self-reflection, self-referential processing, self-awareness, self-appraisal","self-reflection, self-reflectiveness, self-certainty","self-reflection, self-reflectiveness, self-certainty",Self-referential processes,Self-referential processes,self-relevant,self-relevant,"self-representation,
+self-referential ","self-representation,
+self-referential ","Self-referential processing,Self-continuity","Self-referential processing,Self-continuity","Self referential processing, self-recognition","Self referential processing, self-recognition",self-referential processing,self-referential processing,"self-control,self-agency","self-control,self-agency",Self-referential processing,Self-referential processing,self-referentiality,self-referentiality,"self-reflection,self-referential ","self-reflection,self-referential ",NA,NA,"self-reflection,self-perception","self-reflection,self-perception","Self-Reflection,self-awareness","Self-Reflection,self-awareness",self-referential processing;self-referential thoughts;self-referential thinking,self-referential processing;self-referential thoughts;self-referential thinking,self-referential  ,self-referential  ,"self-aspects,self-appraisals,self-representation","self-aspects,self-appraisals"," positive self-referential processing, negative self-referential processing."," positive self-referential processing, negative self-referential processing.",Self-referential processing,Self-referential processing,self-recognition,self-recognition,"Self-Reflection,self-identification,self-reflection","Self-Reflection,self-identification,self-reflection",self-relevant processing,self-relevant processing,"self-concept, self-evaluation","self-concept, self-evaluation"
+Task_sequence,"1.judge(yes,no)whether they considered the sentence to be true or false in evaluated condition(self ,other,facts)","1.judge(yes,no)whether they considered the sentence to be true or false in evaluated condition(self ,other,facts)",1,"1.judge(yes, no) trait sentences applied to the evaluated condition(self-evaluation,other-evaluation,simple button press)
+2.recall which button they had pressed for each sentence.","1.judge(yes, no) trait sentences applied to the evaluated condition(self-evaluation,other-evaluation,simple button press)
+2.recall which button they had pressed for each sentence.",1,1.judge whether the sentences applied to participants themselves,"1.judge(yes, no) whether the sentences(self-referential, other-referential) applied to participants themselves",0,"1.the self-introduction phase,included a clinical and cognitive evaluation
+2.the social approval fMRI task:participants rated the desirability of the personality traits of the person depicted in the presented photograph on a 3-point scale(1= Highly desirable; 2= Moderate; 3= Not desirable)
+3.participate in a video-recorded interview in which participants share their personalities, future goals and plans, and their views on relevant current events","1.the self-introduction phase,included a clinical and cognitive evaluation
+2.the social approval fMRI task:participants rated the desirability of the personality traits of the person depicted in the presented photograph on a 3-point scale(1= Highly desirable; 2= Moderate; 3= Not desirable)
+3.participate in a video-recorded interview in which participants share their personalities, future goals and plans, and their views on relevant current events","judge(yes,no)whether adjectives applied to the evaluated condition( self-evaluation, other evaluation,semantic positivity-evaluation)","judge(yes,no)whether adjectives applied to the evaluated condition( self-evaluation, other evaluation,semantic positivity-evaluation)","to judge(yes, no) whether traits applied to the evaluated condition(Self, other, syllables)","1.Behavioral Paradigm SAT
+2.FMRI Paradigm: to judge(yes, no) whether traits applied to the evaluated condition(Self, other, syllables)","1.judge(yes,no) whether traits (i) characterized themselves (self-evaluation), (ii) characterized an intimate person of personal choice (other-evaluation) or (iii) whether the word included the letter ‘r’ (lexical task).
+2.rate the person he or she had thought of during the ‘other’ condition on a bipolar 8-point scale[-4 (very negative), . . . , 4 (very positive)]","1.judge(yes,no) whether traits (i) characterized themselves (self-evaluation), (ii) characterized an intimate person of personal choice (other-evaluation) or (iii) whether the word included the letter ‘r’ (lexical task).
+2.rate the person he or she had thought of during the ‘other’ condition on a bipolar 8-point scale[-4 (very negative), . . . , 4 (very positive)]",to examine the relationship between brain activation in response to self- versus other-referential stimuli from an fMRI paradigm for self-awareness and average scores on a behavioral measure of insight in schizophrenia,to examine the relationship between brain activation in response to self- versus other-referential stimuli from an fMRI paradigm for self-awareness and average scores on a behavioral measure of insight in schizophrenia,"1. judge(1-4) whether the traits applied to the evaluated condition(self, other, semantic)","1. judge(1-4) whether the traits applied to the evaluated condition(self, other, semantic)","1. judge(yes/a bit, no/not at all) whether/how well the normed personality traits applied to the evaluated condition(self, other(Tony Blair, then British Prime Minister), letter'a')","1. judge(yes/a bit, no/not at all) whether/how well the normed personality traits applied to the evaluated condition(self, other(Tony Blair, then British Prime Minister), letter'a')","1. participants judged whether the trait described them; for ""other"" trials, participants judged whether the trait was socially desirable for other people in general;  for “case” trials, participants judged whether the letters were written in uppercase or lowercase letters
+2. subjects were asked to discriminate the old and new adjectives","1.encoding phase: for ""self"" trials, participants judged whether the trait described them; for ""other"" trials, participants judged whether the trait was socially desirable for other people in general;  for “case” trials, participants judged whether the letters were written in uppercase or lowercase letters
+2. retrieval phase:  subjects were asked to discriminate the old and new adjectives","1. In each referential block, judge whether each word described the person they were imagining.
+2. In the capital-judgment block (half of the trials with capital and half of the trials with lower case), subjects indicate whether each adjective was in capital or lower case.","1. In each referential block, judge whether each word described the person they were imagining.
+2. In the capital-judgment block (half of the trials with capital and half of the trials with lower case), subjects indicate whether each adjective was in capital or lower case.","to judge whether or not each personality-trait adjective was appropriate for describing the self, a familiar other, or adjective valence (positive or negative)"," Subjects were asked to judge whether or not each personality-trait adjective was appropriate for describing the self, a familiar other, or adjective valence (positive or negative)",1.Subjects received task instructions and explanation of the experimental procedure; 2.Subjects were asked to indicate to what extent the sentences were applicable to themselves or the other person/to what extent they agreed with the statement.,1.Subjects received task instructions and explanation of the experimental procedure; 2.Subjects were asked to indicate to what extent the sentences were applicable to themselves or the other person/to what extent they agreed with the statement.,"1.Encoding phase: read the sentences, if there is a blank, make up a word and write it in. 
+2.Retrieval phase: 
+task1: item recognition memory task (decide whether the underlined word is Old or New); 
+task2: self vs. external source memory task (decide whether the underlined word was previously shown to You or whether You made up it).","1.Encoding phase: read the sentences, if there is a blank, make up a word and write it in. 
+2.Retrieval phase: 
+task1: item recognition memory task (decide whether the underlined word is Old or New); 
+task2: self vs. external source memory task (decide whether the underlined word was previously shown to You or whether You made up it).","1. judge(yes,no) whether each  statement referred to themselves (target and reference conditions)","1. judge(yes,no) whether each  statement referred to themselves (target and reference conditions)","1. judge (1-4,1=not at all likely,4 = very likely) opinion questions in self or a familiar non-close other (the British Queen) in either a mentalistic or a physical way[SM:g. ‘How likely are you to think that keeping a diary is important’,OM: ‘How likely is the Queen to think that keeping am diary is important’,SP and OP: ‘How likely are you to have bony elbows?]","1. judge (1-4,1=not at all likely,4 = very likely) opinion questions in self or a familiar non-close other (the British Queen) in either a mentalistic or a physical way[SM:g. ‘How likely are you to think that keeping a diary is important’,OM: ‘How likely is the Queen to think that keeping am diary is important’,SP and OP: ‘How likely are you to have bony elbows?]","1.judge(yes/no) whether a given adjective was suitable to describe/characterize a person specified in the instruction in a single block (present-self, past-self, close-other)","1.judge(yes/no) whether a given adjective was suitable to describe/characterize a person specified in the instruction in a single block (present-self, past-self, close-other)","1. Participants were asked to read the sentence ('A thinks that B is/are C') and decide whether they agreed with it by pressing one of two buttons, based on four conditions(1P_Self, 1P_Other, 3P_Self, and 3P_Other).
+(A:“YOU” (self);B:“YOUR MOTHER” (other),C:an  adjective describing a personality trait)","1. Participants were asked to read the sentence ('A thinks that B is/are C') and decide whether they agreed with it by pressing one of two buttons, based on four conditions(1P_Self, 1P_Other, 3P_Self, and 3P_Other).
+(A:“YOU” (self);B:“YOUR MOTHER” (other),C:an  adjective describing a personality trait)","1. judge(yes,no) whether traits applied to the evaluated condition( self, general, control)
+2.discriminate between studied and unstudied personality traits","1. judge(yes,no) whether traits applied to the evaluated condition( self, general, control)
+2.discriminate between studied and unstudied personality traits","saw sentences containing social concepts (e.g. ‘stingy’, ‘impatient’) describing actions counter to socio-moral values","saw sentences containing social concepts (e.g. ‘stingy’, ‘impatient’) describing actions counter to socio-moral values","judge(yes,no) whether the traits applied to the self, queen, case","judge(yes,no) whether the traits applied to the self, queen, case","1. view comments varied according to whether they were 1st person viewpoints or 2nd person viewpoints 
+2.rate each individual comment on a 7-point Likert scale(1 = Extremely unhappy, 4 = Neither unhappy nor happy, and 7 = Extremely happy)
+ ","1. view comments varied according to whether they were 1st person viewpoints or 2nd person viewpoints 
+2.rate each individual comment on a 7-point Likert scale(1 = Extremely unhappy, 4 = Neither unhappy nor happy, and 7 = Extremely happy)
+ ","1.judge(yes,no) whether a series of statements applied to the evaluated condition(self characteristics,self facts, general facts,other characteristics,other facts)","1.judge(yes,no) whether a series of statements applied to the evaluated condition(self characteristics,self facts, general facts,other characteristics,other facts)","1.viewed a subset of 80 pictures 24 ± 4 h prior to scanning
+2.judge(yes, no) picture related to the evaluated condition(self-referential, non-self-referential)
+3.judge (yes, no) picture familiar to themsleves","1.viewed a subset of 80 pictures 24 ± 4 h prior to scanning
+2.judge(yes, no) picture related to the evaluated condition(self-referential, non-self-referential)
+3.judge (yes, no) picture familiar to themsleves","1.Social Identity-V2 task: judge(agree,disagree)whether the statement describe self,friend,reflected; Self (e.g. ‘I believe I am deceitful’), Friend (‘I believe “my friend” is moody’) and Reflected (‘“My friend” believes I am proud’)
+2.Faces task:viewed 15 images of their own face (F-Self) and 15 images of a stranger (F-Other)","1.Social Identity-V2 task: judge(agree,disagree)whether the statement describe self,friend,reflected; Self (e.g. ‘I believe I am deceitful’), Friend (‘I believe “my friend” is moody’) and Reflected (‘“My friend” believes I am proud’)
+2.Faces task:viewed 15 images of their own face (F-Self) and 15 images of a stranger (F-Other)","1) self-reflection (SR; does this word describe you?), 2) affect labeling (AL; is this a desirable or undesirable trait?), 3) other-reflection (OR; does this word describe your mother?), and 4) perceptual (P; is this word printed in uppercase or lowercase letters?).","1) self-reflection (SR; does this word describe you?), 2) affect labeling (AL; is this a desirable or undesirable trait?), 3) other-reflection (OR; does this word describe your mother?), and 4) perceptual (P; is this word printed in uppercase or lowercase letters?).","1. complete two questionnaires
+2.completed an self-focus thought induction task and an external-focus thought induction task:read and image the sentense presented","1. complete two questionnaires
+2.completed an self-focus thought induction task and an external-focus thought induction task:read and image the sentense presented","1. make judgements (true/false) for various statements about themselves (SELF condition) or a close other person (OTHER condition)
+2.to judge(yes/no) whether the equation(e.g. ""45+8=53"") (MATH condition)
+3.passively viewed a fixation cross that appeared on the screen (REST condition)
+4.again provide judgments (true/false)  for each state ment ","1. make judgements (true/false) for various statements about themselves (SELF condition) or a close other person (OTHER condition)
+2.to judge(yes/no) whether the equation(e.g. ""45+8=53"") (MATH condition)
+3.passively viewed a fixation cross that appeared on the screen (REST condition)
+4.Again provide judgments (true/false)  for each state ment ","to judge whether traits applied to the evaluated condition(first-person, self; first-person,other;third-person, self;  third-person, other)","1.a self-aspects card sort task: sort cards into different groups, with each group describing a distinct aspect of self  self-report
+2.self- and other-representation maintenance task:  rated twice(separated by 3 hours.) how well  different traits described their own personality and the personality of a close friend. 
+3.fufill questionnaire of The Differentiation of Self Inventory
+4.fMRI self- and other-reflection task: 1.judge whether traits applied to the evaluated condition(first-person, self; first-person,other;third-person, self;  third-person, other)","make a judgment on each word by pressing the buttons for “not relevant to me,” “somewhat relevant to me,” or “relevant to me”","1. make a judgment on each word by pressing the buttons for “not relevant to me,” “somewhat relevant to me,” or “relevant to me”","1. completed a laboratory session(a variety of emotional reactivity and regulation tasks regarding public speaking) 
+2. give a 3 mins video-recorded speech on two topics (global warming and corporal punishment)
+3. view 4 blocked presentations of separate 30 s videos of the participant’s speech(self,other)","1. completed a laboratory session(a variety of emotional reactivity and regulation tasks regarding public speaking) 
+2. give a 3 mins video-recorded speech on two topics (global warming and corporal punishment)
+3. view 4 blocked presentations of separate 30 s videos of the participant’s speech(self,other)",Subjects were asked to listen to and repeat aloud three stories,Subjects were asked to listen to and repeat aloud three stories,"to evaluate the extent to which they associate specific personality traits with their “self”, their “ideal” and their avatar on a bipolar scale ranging from –3 to 3.","to evaluate the extent to which they associate specific personality traits with their “self”, their “ideal” and their avatar on a bipolar scale ranging from –3 to 3.","participants making self-judgments and other-judgments based on sentences describing the behavior of characters with autistic or non-autistic traits, using different questions for each judgment type","participants making self-judgments and other-judgments based on sentences describing the behavior of characters with autistic or non-autistic traits, using different questions for each judgment type","T1
+1.filled out questionnaires 
+2.passivly view video clips and complete calculation task
+T1-T2
+1.filled out questionnaires and underwent interview session every three months.
+T2 (after 12 months)
+same with session 1","T1
+1.filled out questionnaires 
+2.passivly view video clips and complete calculation task
+T1-T2
+1.filled out questionnaires and underwent interview session every three months.
+T2 (after 12 months)
+same with session 1"
+Task_sequence_standardized,1.encoding:statements judgment [in scanner],1.encoding:statements judgment [in scanner],1,"1.encoding:trait judgment [in scanner]
+2.recall which button they had pressed for each sentence [out of scanner]","1.encoding:trait judgment [in scanner]
+2.recall which button they had pressed for each sentence [out of scanner]",1,1.encoding: sentence judements [in scanner],1.encoding: sentence judements [in scanner],1,"1.encoding: triait judgement[in scanner]
+2.the self-introduction phase[out of scanner] 
+3.participate in a video-recorded interview[out of scanner] ","1.encoding: triait judgement[in scanner]
+2.the self-introduction phase[out of scanner] 
+3.participate in a video-recorded interview[out of scanner] ", encoding: trait judgment [in scanner], encoding: trait judgment [in scanner],encoding: triait judgement[in scanner],encoding: triait judgement[in scanner],"1.encoding: trait judgement [in scanner]
+2.rate scale[out of scanner]","1.encoding: trait judgement [in scanner]
+2.rate scale[out of scanner]","1.judge(yes, no) whether the sentences(self-referential, other-referential) applied to participants themselves","1.judge(yes, no) whether the sentences(self-referential, other-referential) applied to participants themselves",encoding: trait judgment [in scanner],encoding: trait judgment [in scanner],1. encoding(trait judgment) [in scanner],1. encoding(trait judgment) [in scanner],1. encoding: trait judgment[in scanner]; 2.retrieval: memory retrieval [in scanner],1. encoding: trait judgment[in scanner]; 2.retrieval: memory retrieval [in scanner],encoding: judge adjective words [in scanner],encoding: judge adjective words [in scanner], trait judgment [in scanner], trait judgment [in scanner], judge sentences [in scanner], judge sentences [in scanner],"1. encoding: read/write sentences[out of scanner]; 
+2.retrieval: memory retrieval [in scanner]","1. encoding: read/write sentences[out of scanner]; 
+2.retrieval: memory retrieval [in scanner]",encoding: statement judgment [in scanner],encoding: statement judgment [in scanner],1. encoding: trait judgment[in scanner],1. encoding: trait judgment[in scanner],NA,NA,encoding: judge sentences [in scanner],encoding: judge sentences [in scanner],"1.encoding: trait judgement [in scanner]
+2.retrival:recognition (old, new) [out of scanner]","1.encoding: trait judgement [in scanner]
+2.retrival:recognition (old, new) [out of scanner]","1.encoding: trait judgement [in scanner]
+2.retrival:recognition (old, new) [out of scanner]","1.encoding: trait judgement [in scanner]
+2.retrival:recognition (old, new) [out of scanner]",1. encoding: trait judgment [in scanner],1. encoding: trait judgment [in scanner],1.view comments [in scanner],1.view comments [in scanner],1.encoding: trait judgement [in scanner],1.encoding: trait judgement [in scanner],"1.encoding:picture judgment [in scanner]
+2.episodic memory retrieval [in scanner]","1.encoding:picture judgment [in scanner]
+2.episodic memory retrieval [in scanner]","1.Social Identity-V2 task:trait judgment [in scanner]
+2.Faces task [in scanner]","1.Social Identity-V2 task:trait judgment [in scanner]
+2.Faces task [in scanner]","1.encoding:picture judgment [in scanner]
+2.episodic memory retrieval [in scanner]","1.encoding:picture judgment [in scanner]
+2.episodic memory retrieval [in scanner]",self-focus thought induction[in scanner],self-focus thought induction[in scanner],"1.encoding: triait judgement[in scanner]
+2.again provide judgments[out of scanner] ","1.encoding: triait judgement[in scanner]
+2.again provide judgments[out of scanner] ",1.encoding: trait judgement [in scanner],1.encoding: trait judgement [in scanner],1.encoding: triait judgement[in scanner],1.encoding: triait judgement[in scanner],1.encoding: view videos  [in scanner],1.encoding: view videos  [in scanner],1.encoding: view videos  [in scanner],1.encoding: view videos  [in scanner],NA,NA,encoding: judge sentences [in scanner],encoding: judge sentences [in scanner],"1. passivly view videos clips and complete calculation task [in scanner]
+2. rate the sound quality from 0 to 10, [out of scanner]","1. passivly view videos clips and complete calculation task [in scanner]
+2. rate the sound quality from 0 to 10, [out of scanner]"
+Deviation,yes,yes,1,yes,yes,1,yes,yes,1,yes,yes,yes,yes,yes,yes,yes,yes,1.encoding: sentence judements [in scanner],1.encoding: sentence judements [in scanner],yes,yes,yes,yes,no,no,no,no,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,no,no,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,no,no,yes,yes
+Synchronic_design,mixed,mixed,1,Mixed,Mixed,1,Mixed,Mixed,1,mixed,mixed,mixed,mixed,mixed,mixed,mixed,mixed,mixed,mixed,mixed,mixed,mixed,mixed,mixed,mixed,mixed,mixed,mixed,mixed,Mixed,Mixed,Mixed,Mixed,Mixed,Mixed,Mixed,Mixed,mixed,Mixed,Mixed,Mixed,Mixed,Mixed,mixed,mixed,Mixed,Mixed,Mixed,Mixed,Mixed,Mixed,Mixed,Mixed,Mixed,Mixed,Mixed,Mixed,Mixed,Mixed,mixed,mixed,mixed,mixed,mixed,mixed,mixed,mixed,mixed,mixed,mixed,mixed,mixed,mixed,mixed,mixed
+Diachroni_design,cross-sectional,cross-sectional,1,cross-sectional,cross-sectional,1,cross-sectional,cross-sectional,,cross-sectional,cross-sectional,cross-sectional,cross-sectional,cross-sectional,cross-sectional,cross-sectional,cross-sectional,cross-sectional,cross-sectional,cross-sectional,cross-sectional,cross-sectional,cross-sectional,cross-sectional,cross-sectional,cross-sectional,cross-sectional,cross-sectional,cross-sectional,cross-sectional,cross-sectional,cross-sectional,cross-sectional,cross-sectional,cross-sectional,cross-sectional,cross-sectional,cross-sectional,cross-sectional,cross-sectional,cross-sectional,cross-sectional,cross-sectional,cross-sectional,cross-sectional,cross-sectional,cross-sectional,cross-sectional,cross-sectional,cross-sectional,cross-sectional,cross-sectional,cross-sectional,cross-sectional,cross-sectional,cross-sectional,cross-sectional,cross-sectional,cross-sectional,cross-sectional,cross-sectional,cross-sectional,cross-sectional,cross-sectional,cross-sectional,cross-sectional,cross-sectional,cross-sectional,cross-sectional,cross-sectional,cross-sectional,cross-sectional,cross-sectional,cross-sectional,cross-sectional
+Sensory_info,visual,visual,1,visual,visual,1,visual,visual,1,visual,visual,visual,visual,visual,visual,visual,visual,visual,visual,visual,visual,visual,visual,visual,visual,visual,visual,visual,visual,visual,visual,visual,visual,visual,visual,visual,visual,visual,visual,visual,visual,visual,visual,visual,visual,visual,visual,visual,visual,visual,,visual,visual,visual,visual,visual,visual,visual,visual,visual,visual,visual,visual,visual,visual,visual,visual,visual,visual,visual,visual,visual,visual,visual,visual
+Valence,"positive,negative","positive,negative",1,NA,NA,1,1,1,1,trait words,trait words,trait words,trait words,"negative,positive",trait words,"negative,positive","negative,positive",NA,NA,"negative,positive","negative,positive","negative,positive","negative,positive","negative,positive","negative,positive","negative,positive","negative,positive","negative,positive","negative,positive","positive, negative","positive, negative","positive, negative","positive, negative","neutral, threatening","neutral, threatening","positive,negative","positive,negative","positive, negative","positive, negative","positive, negative","positive, negative","positive, negative, neutral","positive, negative, neutral","positive, negative","positive, negative","positive, negative neutral","positive, negative neutral","positive, negative neutral","positive, negative neutral","positive, negative","positive, negative","positive, neutral, negative","positive, neutral, negative","positive, neutral, negative","positive, neutral, negative","positive, negative","positive, negative","positive, negative, neutral","positive, negative, neutral",NA,NA,NA,NA,"positive,neutral, negative ","positive,neutral, negative ",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Category,personality,personality,1,"sentense
+(personal traits, abilities, or attitude)","sentense
+(personal traits, abilities, or attitude)",1,NA,NA,1,personality,personality,personality,personality,personality,personality,personality traits,personality traits,NA,NA,statement,statement,trait adjectives,trait adjectives,trait adjectives,trait adjectives,adjective,adjective,adjective,adjective,sentence,sentence,sentence,sentence,sentence,sentence,adjectives,"Mentalizing, Physical",adjectives,adjectives,adjectives ,adjectives ,personality,personality traits,sentence,sentence,personality,personality,comments,comments,statement,statement,adjectives,adjectives,statement,statement,trait adjectives,adjectives,statesments,statesments,personality,personality,personality,personality,personality,personality,NA,NA,NA,NA,NA,NA,NA,NA,personal topics,personal topics
+Response_type,"yes,no","yes,no",1,yes or no/right or left,yes or no/right or left,1,"yes, no","yes, no",1,"1/4 Highly desirable,1/4 Moderate,1/4 Not desirable","1/4 Highly desirable,1/4 Moderate,1/4 Not desirable","yes, no","yes, no","yes, no","yes, no","yes,no","yes, no","yes, no","yes, no",1-fully disagree; 4-fully agree,1-fully disagree; 4-fully agree,"yes,no","yes(a bit), no(not at all)","(""uppercase"" / ""lowercase"" ),
+(""desirable"" or ""not desirable""),
+(""me""or ""not me"")","(""uppercase"" / ""lowercase"" ),
+(""desirable"" or ""not desirable""),
+(""me""or ""not me"")","yes,no","yes,no","yes, no","yes, no",1 ~ 4: fully disagree ~ fully agree,1 ~ 4: fully disagree ~ fully agree,read or write,read or write (on paper),"yes, no","yes, no","likely,1-4","likely,1-4","yes, no","yes, no","agree,disagree","agree,disagree","yes, no","yes, no",7-point Likert scale,7-point Likert scale,"yes,no","yes,no","yes,no","yes,no","yes, no","yes, no","Yes, no","Yes, no","agree,disagree","agree,disagree","yes, no",NA,NA,NA,"1.self and other condition:true/false
+2. MATH condition:yes/no","1.self and other condition:true/false
+2. MATH condition:yes/no",NA,NA,"“not relevant to me,” “somewhat relevant to me,” “relevant to me”","“not relevant to me,” “somewhat relevant to me,” “relevant to me”",NA,NA,NA,NA,NA,NA,NA,NA,"passive view,select an answer to calculation task","passive view,select an answer to calculation task"
+"Response_Method	",press button,press button,1,press buttons,press buttons,1,press buttons,press buttons,1,press buttons,press buttons,press buttons,press buttons,press buttons,press buttons,press buttons,press buttons,press buttons,press buttons,press buttons,press buttons,press a button,press a button,press buttons,press buttons,press buttons,press buttons,press buttons,press buttons,press buttons,press buttons,press buttons,press buttons,press buttons,press buttons,press buttons,press buttons,press buttons,press buttons,press a button,press a button,press buttons,press buttons,press buttons,press buttons,press button,press button,press buttons,press buttons,press buttons,press buttons,Press buttons,Press buttons,press button,press button,press buttons,press buttons,NA,NA,press buttons,press buttons,NA,NA,press button,press button,viewing,viewing,viewing,viewing,NA,NA,NA,NA,move the cursor,move the cursor
+flowchart of one trial,"1. cue, 3s 
+2. delay, 1s
+3. sentence , 9s
+4. a blank screen, 1s","1. cue, 3s 
+2. delay, 1s
+3. sentence , 9s
+4. a blank screen, 1s",1,"1. cue, 3s
+2. a sentence, 3s
+3. a fixation, 2s","1. cue, 3s
+2. a sentence, 3s
+3. a fixation, 2s",1,NA,NA,1,"1. show picture，1.5s
+2. trait,3s
+2. a fixation cross,3s","1. show picture，1.5s
+2. trait,3s
+2. a fixation cross,3s","1.trait,3.9s
+2.interstimulus interval,0.1s","1.trait,3.9s
+2.interstimulus interval,0.1s","1. fixation, 3s
+2. trait, 3s","1. fixation, 3s
+2. trait, 3s","1.trait,2s
+2. fixation cross, 1.5-5.5s","1.trait, 2s
+2. fixation cross, 1.5-5.5s",NA,NA,"1. trait, 4s
+  2. fixation, 0.5s","1. trait, 4s
+  2. fixation, 0.5s","1. question, 6s
+2.traits, 4.5s
+3. ISI, 0.5s","1. an orienting question, 6s
+2.traits, 4.5s
+3. ISI, 0.5s","1.fixation,0.5s
+2.trait adjective,3.5s
+3.respond,2~2.5s
+4.inter-trial intervals,2.5s","1.fixation,0.5s
+2.trait adjective,3.5s
+3.respond,2~2.5s
+4.inter-trial intervals,2.5s","(baseline block)
+1.fixation, 3.5s
+2.gray screen, 1s
+(task block)
+1. adjective, 3.5s
+2.a fixation cross, 1s","(baseline block)
+1.fixation, 3.5s
+2.gray screen, 1s
+(task block)
+1. adjective, 3.5s
+2.a fixation cross, 1s","1.instruction: 3s; 
+2.9 successive pictures of adjectives: 3s each; ","1.instruction: 3s; 
+2.9 successive pictures of adjectives: 3s each; ","1.fixation cross: 0.5s; 
+2.stimulus: 4s; ","1.fixation cross: 0.5s; 
+2.stimulus: 4s; ",NA,NA,"1. four statements are judged, 7.5s","1. four statements are judged, 7.5s","1. trial+fixation,4s
+2. a fixation, 16s","1. trial+fixation,4s
+2. a fixation, 16s","1.fixation cross,1s
+2.adjective,3.5s","1.fixation cross,1s
+2.adjective,3.5s","1.sentence,4s
+2.red crcle,0.5s
+3.ITI,1.5～9.5s","1.sentence,4s
+2.red crcle,0.5s
+3.ITI,1.5～9.5s","1.trait, 1s
+2. fixation crosshair, 9s","1.trait, 1s
+2. fixation crosshair, 9s",NA,NA,"1. fixation + stimulus + instruction, 3s
+2. fixation, 3.5/4/4.5s","1. fixation + stimulus + instruction, 3s
+2. fixation, 3.5, 4, or 4.5s","1.comment,2.5s
+2.ISI,0.5s","1.comment,2.5s
+2.ISI,0.5s",NA,NA,"1. a passive picture viewing phase, 4 s
+2. questions related to self-referentiality of the stimulus (“Does this picture personally relate to you?”), 3s
+3.episodic memory retrieval(familiar?),3s
+4. a fixation cross period (range: 13.65–19.5 s; mean: 15.99 s).","1. a passive picture viewing phase, 4 s
+2. questions related to self-referentiality of the stimulus (“Does this picture personally relate to you?”), 3s
+3.episodic memory retrieval(familiar?),3s
+4. a fixation cross period (range: 13.65–19.5 s; mean: 15.99 s).","1. a statement, 4s
+2. a fixation, 4/6/8s","1. a statement, 4s
+2. a fixation, 4/6/8s","1. instruction screen, 3s
+2. word,3s","1. instruction screen, 3s
+2. word,3s",NA,NA,"1. trait+fixation, 2.5s
+2.a blank screen,0.5s","1. trait+fixation, 2.5s
+2.a blank screen,0.5s","1.traits,5s","1.traits,5s","1. trait, 2s
+2. mask, 10.8s
+3. fixation cue, 1s","1. trait, 2s
+2. mask, 10.8s
+3. fixation cue, 1s",NA,NA,"1. view, 30s","1. view, 30s",NA,NA,"1.target and control images were shown for 2s each; 
+2.a blank screen for 1s. ","1.target and control images were shown for 2s each; 
+2.a blank screen for 1s. ","1. a video(introduction, traits, values, goals), 15s
+2. a fixation, 2s
+3. calculation task, 13smax
+4. a fixation, 2s","1. a video(introduction, traits, values, goals), 15s
+2. a fixation, 2s
+3. calculation task, 13smax
+4. a fixation, 2s"
+Number_of_trial_total,54,54,1,90,90,1,NA,NA,1,180,180,NA,NA,90,90,NA,NA,NA,NA,180,180,72,72,130,130,80,80,108,9*12 = 108,NA,NA,NA,NA,80,80,80,80,216,216,88,88,120,120,90,90,234,234,192,192,180,180,160,160,144,144,144,144,90,90,48,48,160,160,80,80,NA,NA,NA,NA,NA,NA,192,192,12,12
+Number_of_trial_block,3,3,1,5,5,1,NA,NA,1,NA,NA,NA,NA,5,5,NA,NA,NA,NA,5,5,9,9,NA,NA,10,10,9,9,5,5,NA,NA,8,8,4,4,72,72,NA,NA,10,10,NA,NA,78,78(3runs),NA,NA,60,60,40,40,16,16,6,6,NA,NA,6,6,4,4,40,40,4,4,6,6,NA,NA,32,32,1,1
+Types,block design,block design,1,block design,block design,1,NA,NA,1,event-related,event-related,block design,block design,block design,block design,event-related,event-related,NA,NA,block design,block design,block design,block design,rapid event-related,rapid event-related,block design,block design,block design,block design,block design,block design,event-related,event-related,block design,block design,block design,block design,mixed design,mixed design,block design,block design,block design,block design,event-related,event-related,event-related,event-related,event-related,event-related,block design,block design,event-related design,event-related design,mixed design,mixed design,block design,block design,block design,block design,block design,block design,block design,block design,block design,block design,block design,block design,block design,block design,block design,block design,block design,block design,block design,block design
+System/equipment,Philips Achieva,Philips Achieva,1,"Magnetom Vision (Siemens Medical System, Erlangen, Germany)","Magnetom Vision (Siemens Medical System, Erlangen, Germany)",1, Philips, Philips 3.0 T Achieva system,0,3T Magnetom MRI Scanner ,3T Magnetom MRI Scanner , Bruker MedSpec, Bruker MedSpec 4.0 Tesla system,Siemens Trio System MRI-Scanner , 3 Tesla Siemens Trio System MRI-Scanner ,Phillips 3 T MR scanner ,Phillips 3 T MR scanner ,Philips 3.0 T Achieva system,Philips 3.0 T Achieva system,Philips Intera,Philips Intera,GE,"GE (General Electric, Milwaukee WI, USA)",3T Siemens,3T Siemens Tim Trio scanners,Siemens 3T scanner,Siemens 3T scanner, 2-T GE/Elscint Prestige MRI scanner, 2-T GE/Elscint Prestige MRI scanner,"3.0 Tesla whole body scanner (Philips Intera, Best, NL)","3.0 Tesla whole body scanner (Philips Intera, Best, NL)",1.5-T General Electric Signa LX 8.3 scanner,"1.5-T General Electric Signa LX 8.3 scanner (General Electric, Milwaukee, WI)","GE NV/i Signa LX Horizon system (General Electric, Milwaukee, WI, USA)","GE NV/i Signa LX Horizon system (General Electric, Milwaukee, WI, USA)",GE Signa,GE Signa,"3-Tesla MR scanner (Siemens Magnetom Trio TIM, Erlangen, Germany)","3-Tesla MR scanner (Siemens Magnetom Trio TIM, Erlangen, Germany)","1.5 T GE Signa system (General Electric,  Milwaukee, WI, U.S.A.)","1.5 T GE Signa system (General Electric,  Milwaukee, WI, U.S.A.)",1.5-T whole-body scanner,1.5-T whole-body scanner,Philips,Philips,"Siemens whole-body
+  Trio","Siemens whole-body
+  Trio",GE,GE,4.0 Tesla Varian Unity Inova,4.0 Tesla Varian Unity Inova,Siemens Sonata,Siemens Sonata,Philips Achieva,Philips Achieva,3-Tesla Siemens TIM Trio magnetic resonance scanner,3-Tesla Siemens TIM Trio magnetic resonance scanner,3-T short bore Signa Excite system,3-T short bore Signa Excite system,GE,3 Tesla GE Signa EXCITE scanner,3T Siemens Tim Trio scanner,3T Siemens Tim Trio scanner,3T Siemens Tim trio,3T Siemens Tim trio,Trio 3.0 Tesla MRI scanner,Trio 3.0 Tesla MRI scanner,1.5-T Signa Excite system,1.5-T Signa Excite system,"3 Tesla whole-body tomograph (Trio; Siemens, Erlangen, Germany).","3 Tesla whole-body tomograph (Trio; Siemens, Erlangen, Germany).","3-T MR imager (Signa Excite; General Electric Medical Systems, Milwaukee, WI)","3-T MR imager (Signa Excite; General Electric Medical Systems, Milwaukee, WI)",SIEMENS,SIEMENS MAGNETOM Trio
+Magnetic field,3T,3T,1,1.5T,1.5T,1,3.0 T,3.0 T,1,3T,3T,4T,4T,3T,3T,3T,3T,3.0 T,3.0 T,3T,3T,1.5T,1.5T,3T,3T,,,2T,2T,3T,3T,1.5T,1.5T,1.5T,1.5T,3T,3T,3T,3T,1.5T,1.5T,1.5-T,1.5-T,3T,3T,3T,3T,1.5T,1.5T,4T,4T,1.5T,1.5T,3T,3T,3T,3T,3T,3T,3T,3T,3T,3T,3T,3T,3.0T,3.0T,1.5T,1.5T,3T,3T,3T,3T,3T,3T
+MRI_Software,FSL5.0,FSL,0,"SPM8,Matlab 7.7.0","SPM8,Matlab 7.7.0",1,SPM5,SPM5,1,SPM8 ,SPM8 ,SPM2,SPM2, SPM8, SPM8,SPM5,SPM5,SPM5,SPM5,"SPM 8,Matlab 7.13","SPM 8,Matlab 7.13",XBAM,XBAM,FMRIB Software Library (FSL v5.0.9),FSL,"SPM,R","SPM,R",SPM5,SPM5,SPM 8,SPM 8,SPM2,SPM2,SPM99,SPM99,SPM5,SPM5,SPM12b,SPM12b,"SPM8,Wellcome Department of Cognitive Neurology, London, UK","SPM8,Wellcome Department of Cognitive Neurology, London, UK",SPM5,SPM5,SPM8,SPM8,"BrainVoyager software (Brain
+  Innovation, Maastricht","BrainVoyager software (Brain
+  Innovation, Maastricht",AFNI,AFNI,SPM99,SPM99,SPM 8,SPM 8,"SPM8,Matlab 2012","SPM8,Matlab 2012",SPM2,SPM2, AFNI, AFNI,AFNI,AFNI,"AFNI, FSL","AFNI, FSL 5.0.2 software",SPM12,SPM12,SPM8,SPM8,SPM5,SPM5,SPM 8,"SPM, version SPM 8, Wellcome Trust Centre for Neuroimaging, University College London, London, UK",SPM 8,SPM 8,"SPM12,Matlab12","SPM12,Matlab12"
+Protocol,"realign,coregister,normalize,smooth","realign,coregister,normalize,smooth",1,"remove, realign, coregister, normalize, smooth, high-pass filter","remove, realign, coregister, normalize, smooth, high-pass filter",1,"realign, coregistration,  normalize, smooth, high-pass filter","realign, coregistration,  normalize, smooth, high-pass filter",1,"realign,normalize,smooth,high-pass filter","realign,normalize,smooth,high-pass filter","correct,realign,normalize,smooth","correct,realign,normalize,smooth,high-pass filter","correct, coregistere, normalize, smooth ","correct, coregistere, normalize, smooth ","realign,normaize,smooth,high-pass filter,remove","realign,normaize,smooth,high-pass filter,remove","realign, coregistration,  normalize, smooth, high-pass filter","realign, coregistration,  normalize, smooth, high-pass filter","realign,coregister,normalize,smooth","realign,coregister,normalize,smooth, high-pass filter","motion correction,slice,normalize,smooth","motion correction,slice,normalize,smooth,filter","high-pass filtering,spatial smoothing,skull stripping,realign","high-pass filtering,spatial smoothing,skull stripping,registration,realign",spatially filter,spatially filter," realign,  co-register, normalize,  smooth"," realign,  co-register, normalize,  smooth","slicetime correct, realign, coregistere, normalize","slicetime correct, realign, coregistere, normalize","realign, normalize, smooth","realign, normalize, smooth","realign, normalize, smooth","realign, normalize, smooth","relign, coregister,normalize,smooth, High-pass temporal filtering","relign, coregister,normalize,smooth","motion corrected, register,normalize,smooth","motion corrected, register,normalize,smooth","realign,unwarp,normalize,spatially smooth","realign,unwarp,normalize,spatially smooth","correcte, realign, co-registere, normalize, smooth","correcte, realign, co-registere, normalize, smooth","realigned, unwarped, coregistered,normalised,smooth","realigned, unwarped, coregistered,normalised,smooth","realign,co-register,normalize,smooth,high pass filtering","realign,co-register,normalize,smooth,high pass filtering","remove,smooth,normalized","remove,smooth,normalized","correct,normalize,smooth","correct,normalize,smooth","realign,co-register, normalize, smooth,high-pass filter","realign,co-register, normalize, smooth,high-pass filter","realign, normalize, smooth, high-pass filter","realign, normalize, smooth, high-pass filter","correct motion,normalize,smooth,spatial filter","correct motion,normalize,smooth,spatial filter","correct, normalize,  smooth","correct, normalize,  smooth,  pass filter","correct,remove,smooth,filter","correct,remove,smooth,filter","remove, correction, coregistration, normalize, smooth","correction, coregistration, normalize, smooth","corrected, realigned, coregistered, normalized, smoothed","corrected, realigned, coregistered, normalized, smoothed","realign,correct,co-registere,smooth","realign,correct,co-registere,smooth","realign,spatially warped,smooth","realign,spatially warped,smooth",na,NA,"realign, normalize","realign, normalize","remove, realign, correction, normalize, smooth","remove, realign, correction, normalize, smooth"
