@@ -53,8 +53,8 @@ The project is structured to ensure fully reproducible data analyses:
 │   ├── 5_Supply_Figure_S1_and_S2.R   # R script for supplementary figures
 │   ├── 6_Diagnostics_ALE.py          # FocusCounter diagnostics
 │   ├── 7_Supply_AC1.R                # Inter-rater reliability (AC1)
-│   ├── 9_Figure.ipynb                # Brain visualization (glass brains)
-│   └── Supply_FSN copy.ipynb         # Fail-safe N (FSN) robustness analysis
+│   ├── 8_Supply_FSN.ipynb            # Fail-safe N (FSN) robustness analysis
+│   └── 9_FSN_Figure.ipynb            # Brain visualization (glass brains & FSN maps)
 ├── 3_Output/                         # Analysis results
 │   ├── 1_ALE/                        # ALE z-maps and unthresholded maps
 │   ├── 2_Contrast/                   # Spatial contrast maps
@@ -63,7 +63,7 @@ The project is structured to ensure fully reproducible data analyses:
 │   ├── 5_Supply_info_figure/         # Supplementary information figures
 │   ├── 6_FocusCounter/               # Diagnostic cluster contribution data
 │   ├── 7_AC1/                        # Inter-rater reliability results
-│   ├── 7_FSN/                        # Fail-safe N maps and statistics
+│   ├── 8_FSN/                        # Fail-safe N maps and statistics
 │   └── Visualization_by_Workbench/   # Neuroimaging visualization data
 ├── requirements.txt                  # Python dependencies
 ├── r-packages.txt                    # R dependencies
