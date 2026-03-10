@@ -91,9 +91,10 @@ def run_ale_with_diagnostics(text_file, voxel_thresh=0.001, cluster_thresh=0.05,
     return cres, diag_results
 
 if __name__ == "__main__":
+    # define the input text file and output directory for the current analysis
     text_file = "../1_Data/AnalysisData/InputData_ALE/hyperactivation.txt"
     file_prefix = path.basename(text_file).replace(".txt", "")
-    output_dir = "../3_Output/7_other"
+    output_dir = "../3_Output/6_FocusCounter"
     html_report_path = path.join(output_dir, f"{file_prefix}_html_report")
 
     cres, diag_results = run_ale_with_diagnostics(

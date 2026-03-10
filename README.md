@@ -1,61 +1,74 @@
-## Project Overview
+# Shared brain basis for altered self-referential processing across psychiatric disorders?
+> A systematic review and meta-analysis of neuroimaging studies
 
-**Title**  
-Shared brain basis for altered self-referential processing across psychiatric disorders?  
-A systematic review and meta-analysis of neuroimaging studies
+## 📖 Project Overview
 
-## Computational Environment
+This repository contains the data, analysis scripts, and resulting outputs for our systematic review and coordinate-based meta-analysis (CBMA) investigating the shared neural underpinnings of altered self-referential processing across various psychiatric disorders.
+
+The core meta-analysis was conducted using the Activation Likelihood Estimation (ALE) algorithm implemented via [NiMARE](https://nimare.readthedocs.io/), followed by functional decoding and robustness analyses (Fail-safe N & FocusCounter).
+
+## 🖥 Computational Environment
 
 Analyses were conducted using:
+- **Python**: 3.12.9
+- **R**: 4.5.2  
+- **Operating System**: macOS Sonoma 14.5
 
-- Python 3.12.9
-- R 4.5.2
+Python dependencies with exact versions are listed in [`requirements.txt`](requirements.txt). 
 
-## Repository Structure
+**Environment Setup**
+
+```bash
+# Install Python dependencies
+pip install -r requirements.txt
+```
+
+## ✍️ Contact
+
+If you have questions about the data or analysis pipeline, please contact:
+
+*  **First Author**: Shanshan Zhu ([zhushanshan0717@gmail.com](mailto:zhushanshan0717@gmail.com)) | [ORCID](https://orcid.org/0009-0007-6612-6190)
+*  **Corresponding Author**: Hu Chuan-Peng ([hcp4715@hotmail.com](mailto:hcp4715@hotmail.com)) | [ORCID](https://orcid.org/0000-0002-7503-5131)
+*  **Institution**: Nanjing Normal University
+
+## 📂 Repository Structure
+
+The project is structured to ensure fully reproducible data analyses:
 
 ```text
 .
-├── 1_Data
-│   ├── AnalysisData
-│   └── RawData
-├── 2_Scripts
-│   ├── 1_ALE.ipynb
-│   ├── 2_Contrast.ipynb
-│   ├── 3_Tables.ipynb
-│   ├── 4_Decoding.ipynb
-│   ├── 5_Sankey.ipynb
-│   └── 6_Supply_Figure_S1_and_S2.R
-├── 3_Output
-│   ├── 1_ALE
-│   ├── 2_Contrast
-│   ├── 3_Tables
-│   ├── 4_Decoding
-│   ├── 5_Sankey
-│   ├── 6_other
-│   └── 7_Voxel2surface
-│ 
+├── 1_Data/                           # Input datasets for meta-analysis
+│   ├── RawData/                      # Original literature data/coordinates
+│   └── AnalysisData/                 # Preprocessed Sleuth format (.txt) files
+├── 2_Scripts/                        # Analysis scripts (Python & R)
+│   ├── 1_ALE.ipynb                   # Main ALE meta-analysis and thresholding
+│   ├── 2_Contrast.ipynb              # Contrast analyses between groups
+│   ├── 3_Tables.ipynb                # Generate statistical summary tables
+│   ├── 4_Decoding.ipynb              # Meta-analytic functional decoding
+│   ├── 5_Supply_Figure_S1_and_S2.R   # R script for supplementary figures
+│   ├── 6_Diagnostics_ALE.py          # FocusCounter diagnostics
+│   ├── 7_Supply_AC1.R                # Inter-rater reliability (AC1)
+│   ├── 9_Figure.ipynb                # Brain visualization (glass brains)
+│   └── Supply_FSN copy.ipynb         # Fail-safe N (FSN) robustness analysis
+├── 3_Output/                         # Analysis results
+│   ├── 1_ALE/                        # ALE z-maps and unthresholded maps
+│   ├── 2_Contrast/                   # Spatial contrast maps
+│   ├── 3_Tables/                     # Statistical summary tables (.tsv)
+│   ├── 4_Decoding/                   # Functional decoding results & word clouds
+│   ├── 5_Supply_info_figure/         # Supplementary information figures
+│   ├── 6_FocusCounter/               # Diagnostic cluster contribution data
+│   ├── 7_AC1/                        # Inter-rater reliability results
+│   ├── 7_FSN/                        # Fail-safe N maps and statistics
+│   └── Visualization_by_Workbench/   # Neuroimaging visualization data
+├── requirements.txt                  # Python dependencies (pinned versions)
 └── README.md
 ```
 
-**about the research data more details can see [scientific data bank](https://www.scidb.cn/en/detail?dataSetId=1b53c91112024d71b95c42bbd748141f&version=V4).**
+## 📊 Data Availability
 
-## Contact
+The complete neuroimaging coordinate dataset, sample information, and unthresholded statistical maps are publicly accessible via **[Scientific Data Bank (SciDB)](https://www.scidb.cn/en/detail?dataSetId=1b53c91112024d71b95c42bbd748141f&version=V4)**.
 
-### First Author
-
-- Name: Shanshan Zhu
-- ORCID: https://orcid.org/0009-0007-6612-6190
-- Institution: NanJing Normal Univeristy
-- Email: zhushanshan0717@gmail.com
-
-### Corresponding Author
-
-- Name: Hu Chuan-Peng
-- ORCID: https://orcid.org/0000-0002-7503-5131
-- Institution: NanJing Normal Univeristy
-- Email: hcp4715@hotmail.com
-
-## Contributors
+## 👥 Contributors
 
 - [2021.11-present] Hu Chuan-Peng: Project design; data verification and management; manuscript writing and revision.
 - [2023.01-present] Shan-shan Zhu: Data collection and proofreading; data summarization and organization; manuscript writing and revision.

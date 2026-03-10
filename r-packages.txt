@@ -1,0 +1,9 @@
+# R 4.5.2
+# Package manifest derived from scripts in 2_Scripts/
+
+tidyverse==2.0.0
+readxl==1.4.5
+ggplot2==4.0.1
+maps==3.4.3
+scales==1.4.0
+irrCAC==1.0

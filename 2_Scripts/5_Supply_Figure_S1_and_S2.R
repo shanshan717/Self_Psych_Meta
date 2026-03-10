@@ -63,8 +63,8 @@ base::print(p_map)
 
 # Export map plot (included .png and .pdf format)
 # Uncomment lines below to save
-# ggplot2::ggsave("../3_Output/6_other/patients_sample_map.pdf", plot = p_map, height = 6, width = 12)
-# ggplot2::ggsave("../3_Output/6_other/patients_sample_map.png", plot = p_map, height = 6, width = 12)
+# ggplot2::ggsave("../3_Output/5_Supply_info_figure/patients_sample_map.pdf", plot = p_map, height = 6, width = 12)
+# ggplot2::ggsave("../3_Output/5_Supply_info_figure/patients_sample_map.png", plot = p_map, height = 6, width = 12)
 
 # ====================================================================
 # Figure S2: Distribution of study articles and psychiatric patient sample sizes
@@ -120,5 +120,5 @@ base::print(p_bar)
 
 # Export map plot (included .png and .pdf format)
 # Uncomment lines below to save
-# ggplot2::ggsave("../3_Output/6_other/bar_plot.pdf", plot = p_bar, height = 6, width = 12)
-# ggplot2::ggsave("../3_Output/6_other/bar_plot.png", plot = p_bar, height = 6, width = 12)
+# ggplot2::ggsave("../3_Output/5_Supply_info_figure/bar_plot.pdf", plot = p_bar, height = 6, width = 12)
+# ggplot2::ggsave("../3_Output/5_Supply_info_figure/bar_plot.png", plot = p_bar, height = 6, width = 12)

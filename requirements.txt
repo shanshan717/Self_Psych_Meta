@@ -1,0 +1,20 @@
+# Core scientific Python stack
+numpy==1.26.4
+pandas==2.2.3
+scipy==1.13.1
+
+# Neuroimaging and coordinate-based meta-analysis
+nibabel==5.2.1
+nilearn==0.11.1
+nimare==0.5.5
+atlasreader==0.3.2
+
+# Visualization and reporting
+matplotlib==3.8.4
+seaborn==0.13.2
+wordcloud==1.9.6
+
+# Utilities used in notebooks and scripts
+requests==2.31.0
+joblib==1.4.2
+ipython==8.27.0
