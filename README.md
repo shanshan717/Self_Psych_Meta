@@ -1,11 +1,13 @@
 # Shared brain basis for altered self-referential processing across psychiatric disorders?
-> A systematic review and meta-analysis of neuroimaging studies
+
+*A systematic review and meta-analysis of neuroimaging studies*
 
 ## 📖 Project Overview
 
-This repository contains the data, analysis scripts, and resulting outputs for our systematic review and coordinate-based meta-analysis (CBMA) investigating the shared neural underpinnings of altered self-referential processing across various psychiatric disorders.
+This repository contains the data, analysis scripts, and outputs for our systematic review and coordinate-based meta-analysis (CBMA) of altered self-referential processing across psychiatric disorders.
 
-The core meta-analysis was conducted using the Activation Likelihood Estimation (ALE) algorithm implemented via [NiMARE](https://nimare.readthedocs.io/), followed by functional decoding and robustness analyses (Fail-safe N & FocusCounter).
+The primary meta-analysis was conducted using the Activation Likelihood Estimation (ALE) framework implemented in [NiMARE](https://nimare.readthedocs.io/).
+
 
 ## 🖥 Computational Environment
 
@@ -14,7 +16,8 @@ Analyses were conducted using:
 - **R**: 4.5.2  
 - **Operating System**: macOS Sonoma 14.5
 
-Python dependencies with exact versions are listed in [`requirements.txt`](requirements.txt). 
+For reproducibility, Python dependencies are listed in [`requirements.txt`](requirements.txt), and R package dependencies are summarized in [`r-packages.txt`](r-packages.txt).
+Because this repository does not yet include a fully locked project environment, these files should be treated as dependency manifests rather than complete lockfiles.
 
 **Environment Setup**
 
@@ -22,6 +25,8 @@ Python dependencies with exact versions are listed in [`requirements.txt`](requi
 # Install Python dependencies
 pip install -r requirements.txt
 ```
+
+Before running the R scripts in [`2_Scripts`](2_Scripts), please install the packages listed in [`r-packages.txt`](r-packages.txt).
 
 ## ✍️ Contact
 
@@ -60,7 +65,8 @@ The project is structured to ensure fully reproducible data analyses:
 │   ├── 7_AC1/                        # Inter-rater reliability results
 │   ├── 7_FSN/                        # Fail-safe N maps and statistics
 │   └── Visualization_by_Workbench/   # Neuroimaging visualization data
-├── requirements.txt                  # Python dependencies (pinned versions)
+├── requirements.txt                  # Python dependencies
+├── r-packages.txt                    # R dependencies
 └── README.md
 ```
 
