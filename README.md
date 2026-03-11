@@ -54,12 +54,12 @@ The project is structured to ensure fully reproducible data analyses:
 │   ├── 6_Diagnostics_ALE.py          # FocusCounter diagnostics
 │   ├── 7_Supply_AC1.R                # Inter-rater reliability (AC1)
 │   ├── 8_Supply_FSN.ipynb            # Fail-safe N (FSN) robustness analysis
-│   └── 9_FSN_Figure.ipynb            # Brain visualization (glass brains & FSN maps)
+│   └── 9_Supply_Visualization.ipynb  # Brain visualization
 ├── 3_Output/                         # Analysis results
 │   ├── 1_ALE/                        # ALE z-maps and unthresholded maps
 │   ├── 2_Contrast/                   # Spatial contrast maps
 │   ├── 3_Tables/                     # Statistical summary tables (.tsv)
-│   ├── 4_Decoding/                   # Functional decoding results & word clouds
+│   ├── 4_Decoding/                   # Functional decoding results & wordclouds
 │   ├── 5_Supply_info_figure/         # Supplementary information figures
 │   ├── 6_FocusCounter/               # Diagnostic cluster contribution data
 │   ├── 7_AC1/                        # Inter-rater reliability results
